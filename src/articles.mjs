@@ -360,5 +360,166 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 국민성장펀드 가입 소득조건은 전용계좌 가입 자격과 서민 전용 물량 기준을 나누어 봐야 하고, 투자한도는 전용계좌와 일반계좌가 다릅니다. 가입 전 홈택스에서 ISA 가입용 소득확인증명서를 확인하고, 판매사별 한도·최저가입금액·위험등급·수수료를 함께 확인하세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "public-direct-payment-2026-online-guide",
+    category: "support",
+    title: "2026 공익직불금 신청기간 온라인 신청방법: 스마트폰·인터넷·ARS 접수 안내",
+    description: "2026년 기본형 공익직불금 신청기간, 온라인 비대면 신청방법, 방문 신청 대상, 필요서류와 신청 후 확인사항을 표와 FAQ로 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-21",
+    modifiedAt: "2026-05-21",
+    readingTime: "3분",
+    tags: [
+      "2026 공익직불금 신청기간",
+      "공익직불금 온라인 신청방법",
+      "기본형 공익직불금 비대면 신청",
+      "농업e지 공익직불금 신청",
+      "공익직불금 방문 신청 서류"
+    ],
+    ctas: [
+      {
+        label: "농업e지 신청 ❯❯",
+        url: "https://www.nongupez.go.kr/"
+      },
+      {
+        label: "농식품부 안내 확인 ❯❯",
+        url: "https://www.mafra.go.kr/"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">2026 공익직불금 신청기간 온라인 신청방법을 찾고 있다면 먼저 신청 마감일을 확인해야 합니다. 2026년 기본형 공익직불금 신청·접수는 2026년 3월 1일부터 5월 31일까지 진행됩니다. 공익직불금은 농업·농촌의 공익기능 증진과 농업인 소득안정을 위한 제도이므로, 지급대상 농지와 농업경영체 등록정보, 실제 경작 여부가 함께 확인됩니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 공익직불금 신청기간과 접수 방식</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">농림축산식품부 안내에 따르면 2026년 기본형 공익직불금은 방문 신청과 비대면 신청을 함께 운영합니다. 비대면 신청은 스마트폰, 인터넷, ARS 방식으로 진행되며, 지난해와 농업경영체 등록정보 변동이 없는 농업인은 비대면 간편신청 대상이 될 수 있습니다. 반대로 신규 신청자나 경작정보 확인이 필요한 경우에는 방문 신청과 증빙서류 제출이 필요할 수 있습니다.</p>
+      {{CTA_BUTTONS}}
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>2026 공익직불금 신청기간 및 방법</th>
+            <th>확인할 내용</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>전체 신청기간</td>
+            <td>2026년 3월 1일~5월 31일</td>
+            <td>마감 전 접수완료 여부를 반드시 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>비대면 간편신청</td>
+            <td>스마트폰 안내 링크 또는 ARS로 신청</td>
+            <td>전년도 등록정보 변동이 없는 대상자 중심으로 안내될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>인터넷 신청</td>
+            <td>농업e지 등 온라인 경로 활용</td>
+            <td>간편신청 대상이 아니어도 온라인 신청 가능 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>방문 신청</td>
+            <td>농지 소재지 읍·면·동 행정복지센터 방문</td>
+            <td>신규 신청자, 관외경작자 등은 증빙서류가 필요할 수 있습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">공익직불금 온라인 신청방법 스마트폰·ARS·인터넷</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">공익직불금 온라인 신청방법은 크게 세 가지로 볼 수 있습니다. 첫째, 농림축산식품부 또는 지자체 안내 문자를 받은 뒤 스마트폰 링크를 통해 본인 확인과 신청 내용을 확인하는 방식입니다. 둘째, ARS 전화 안내에 따라 신청하는 방식입니다. 셋째, 인터넷 신청 경로를 통해 농업경영체 등록정보와 신청 정보를 확인하고 제출하는 방식입니다.</p>
+      <ol style="margin: 16px 0 24px 20px; line-height: 1.9; color: #333;">
+        <li>신청 안내 문자 또는 지자체 안내문을 확인합니다.</li>
+        <li>본인의 농업경영체 등록정보와 지급대상 농지 정보를 확인합니다.</li>
+        <li>스마트폰 링크, ARS, 농업e지 인터넷 신청 중 가능한 방법을 선택합니다.</li>
+        <li>신청 내용을 제출한 뒤 접수완료 또는 신청완료 표시를 확인합니다.</li>
+        <li>정보가 다르거나 증빙이 필요한 경우 읍·면·동 행정복지센터에 문의합니다.</li>
+      </ol>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 공익직불금 방문 신청 대상과 필요서류</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">비대면 신청이 편리하더라도 모든 농업인이 온라인으로만 끝낼 수 있는 것은 아닙니다. 신규 신청자, 관외경작자, 노인장기요양등급판정자 등은 직접 방문 신청과 경작사실 관련 증빙서류 제출이 필요할 수 있습니다. 또한 농지 정보, 임대차 관계, 실제 경작 여부가 달라졌다면 온라인 신청 화면에서 바로 처리되지 않을 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>방문 신청이 필요한 경우</th>
+            <th>준비할 수 있는 서류</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>신규 신청자</td>
+            <td>신분증, 신청서, 농업경영체 등록 관련 확인자료</td>
+            <td>농지 소재지 행정복지센터 안내를 먼저 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>관외경작자</td>
+            <td>경작사실확인서, 임대차계약서 등 실제 경작 증빙</td>
+            <td>실경작 여부 확인이 강화될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>농지·경작정보 변경</td>
+            <td>변경된 농지 정보와 임차·사용 관계 증빙</td>
+            <td>전년도 정보와 다르면 비대면 간편신청이 제한될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>장기요양등급 판정자</td>
+            <td>경작사실 관련 증빙서류</td>
+            <td>직접 경작 여부 확인이 필요할 수 있습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">공익직불금 신청 후 지급 전 확인사항</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">공익직불금은 신청만 했다고 바로 지급되는 구조가 아닙니다. 신청 이후 자격 검증, 준수사항 이행 확인, 실경작 여부 점검, 교육 이수 확인 등이 진행됩니다. 따라서 접수 후에도 신청정보가 맞는지, 보완서류 요청이 있는지, 공익직불제 의무교육을 이수했는지 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>신청 후 체크</th>
+            <th>확인 이유</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>접수완료 여부</td>
+            <td>제출 중 상태로 남아 있으면 신청이 완료되지 않았을 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>농업경영체 정보</td>
+            <td>등록정보와 실제 경작 현황이 맞아야 지급대상 검증이 원활합니다.</td>
+          </tr>
+          <tr>
+            <td>준수사항 교육</td>
+            <td>공익직불제 준수사항 미이행 시 감액이 발생할 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>보완서류 요청</td>
+            <td>문자나 행정복지센터 안내를 놓치면 지급 심사에 지장이 생길 수 있습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 공익직불금 신청기간 온라인 신청방법 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>2026 공익직불금 신청기간은 언제까지인가요?</summary>
+          <p>2026년 기본형 공익직불금 신청기간은 2026년 3월 1일부터 5월 31일까지입니다. 마감일 전 접수완료 여부를 확인해야 합니다.</p>
+        </details>
+        <details>
+          <summary>공익직불금 온라인 신청은 누구나 가능한가요?</summary>
+          <p>전년도 농업경영체 등록정보 변동이 없는 농업인 등은 비대면 간편신청 대상이 될 수 있습니다. 다만 신규 신청자, 관외경작자, 증빙이 필요한 경우에는 방문 신청이 필요할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>문자를 못 받으면 신청할 수 없나요?</summary>
+          <p>문자를 받지 못했더라도 농업e지 인터넷 신청 가능 여부나 농지 소재지 읍·면·동 행정복지센터 방문 신청을 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>공익직불금 방문 신청은 어디서 하나요?</summary>
+          <p>일반적으로 농지 면적이 가장 큰 농지 소재지의 읍·면·동 행정복지센터에서 신청합니다. 지역별 운영 방식은 지자체 안내를 확인하는 것이 좋습니다.</p>
+        </details>
+        <details>
+          <summary>신청 후 바로 지급되나요?</summary>
+          <p>아닙니다. 신청 후 자격 검증, 준수사항 확인, 현장 점검 등이 진행된 뒤 지급 절차가 이어집니다. 보완 요청과 교육 이수 여부도 함께 확인해야 합니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 2026 공익직불금 신청기간은 3월 1일부터 5월 31일까지이며, 온라인 신청방법은 스마트폰 링크, ARS, 농업e지 인터넷 신청으로 나눌 수 있습니다. 비대면 신청이 어렵거나 증빙이 필요한 경우에는 농지 소재지 행정복지센터에서 방문 신청을 진행하세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
