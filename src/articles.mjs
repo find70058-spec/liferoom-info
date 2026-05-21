@@ -521,5 +521,173 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 2026 공익직불금 신청기간은 3월 1일부터 5월 31일까지이며, 온라인 신청방법은 스마트폰 링크, ARS, 농업e지 인터넷 신청으로 나눌 수 있습니다. 비대면 신청이 어렵거나 증빙이 필요한 경우에는 농지 소재지 행정복지센터에서 방문 신청을 진행하세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "kohi-required-training-guide",
+    category: "education",
+    title: "코히의무교육 온라인수강신청 직무별 필수교육 안내: KOHI 보건복지배움인 이용방법",
+    description: "코히의무교육 온라인수강신청 방법, 직무별 필수교육 확인표, 수강신청 절차, 수료증 발급과 제출 전 체크사항을 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-21",
+    modifiedAt: "2026-05-21",
+    readingTime: "3분",
+    tags: [
+      "코히의무교육 온라인수강신청",
+      "KOHI 의무교육",
+      "보건복지배움인 수강신청",
+      "직무별 필수교육",
+      "코히 수료증 발급"
+    ],
+    ctas: [
+      {
+        label: "KOHI 수강신청 ❯❯",
+        url: "https://edu.kohi.or.kr/"
+      },
+      {
+        label: "한국보건복지인재원 ❯❯",
+        url: "https://www.kohi.or.kr/"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">코히의무교육 온라인수강신청은 한국보건복지인재원 KOHI가 운영하는 보건복지배움인에서 진행할 수 있습니다. 보건복지 분야 종사자는 소속기관, 담당직무, 법정교육 기준에 따라 매년 또는 정해진 주기마다 필수교육을 이수해야 하는 경우가 많습니다. 다만 모든 사람이 같은 과정을 듣는 것은 아니므로, 먼저 기관에서 요구하는 과정명과 이수 기준을 확인하는 것이 중요합니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히의무교육 온라인수강신청 기본 절차</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">KOHI 보건복지배움인에서는 기본교육, 사회서비스, 노인복지, 장애인복지, 긴급복지지원교육, 의료서비스, 기타필수교육 등 다양한 교육 영역을 제공합니다. 온라인수강신청은 회원가입 또는 로그인 후 과정 검색, 과정 상세 확인, 수강신청, 내 강의실 학습, 수료증 발급 순서로 진행됩니다.</p>
+      {{CTA_BUTTONS}}
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>단계</th>
+            <th>코히의무교육 온라인수강신청 방법</th>
+            <th>체크할 부분</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1단계</td>
+            <td>KOHI 보건복지배움인 접속 후 회원가입 또는 로그인</td>
+            <td>개인회원, 공무원, 기관 계정 등 본인 유형을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>2단계</td>
+            <td>교육과정 검색 또는 법정의무·필수교육 메뉴 확인</td>
+            <td>기관에서 안내한 과정명과 동일한지 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>3단계</td>
+            <td>과정 상세페이지에서 대상자, 교육시간, 수료기준 확인</td>
+            <td>직무와 다른 과정을 신청하면 수료증 인정이 어려울 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>4단계</td>
+            <td>수강신청 후 내 강의실에서 학습 진행</td>
+            <td>진도율, 평가, 설문 등 수료 조건을 끝까지 완료합니다.</td>
+          </tr>
+          <tr>
+            <td>5단계</td>
+            <td>수료증 발급 또는 PDF 저장</td>
+            <td>기관 제출용으로 파일명과 이수연도를 함께 정리합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히 직무별 필수교육 확인표</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">직무별 필수교육은 소속기관의 유형과 담당업무에 따라 다릅니다. 아래 표는 KOHI에서 자주 확인하는 교육 영역을 기준으로 정리한 예시입니다. 실제 필수 여부는 소속기관, 지자체 공문, 평가 기준, 관련 법령에 따라 달라질 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>직무·기관 유형</th>
+            <th>확인할 수 있는 코히 필수교육 예시</th>
+            <th>수강 전 확인사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>노인복지시설·장기요양기관</td>
+            <td>노인인권교육, 노인학대 예방 및 신고의무 관련 교육</td>
+            <td>시설 평가나 지도점검에서 요구하는 과정명을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>사회복지시설 종사자</td>
+            <td>긴급복지지원 신고의무, 사회서비스 관련 필수교육</td>
+            <td>기관 내 전 직원 대상인지 담당자 대상인지 구분합니다.</td>
+          </tr>
+          <tr>
+            <td>장애인복지 관련 종사자</td>
+            <td>장애인복지, 장애인학대 신고의무 관련 교육</td>
+            <td>직무별로 필수 과정과 권장 과정이 나뉠 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>의료기관·정신건강 관련 기관</td>
+            <td>의료서비스, 정신건강 인권교육 등 관련 교육</td>
+            <td>기관 종류와 담당부서에 따라 대상자 범위가 달라질 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>공공기관·지자체 담당자</td>
+            <td>기본교육, 정책·행정 직무교육, 기타필수교육</td>
+            <td>공문에 지정된 교육명, 교육시간, 이수기한을 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히의무교육 수강신청 전 과정명 확인방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">코히의무교육은 비슷한 이름의 과정이 여러 개 있을 수 있습니다. 예를 들어 노인인권, 긴급복지지원, 학대신고의무자, 기타필수교육처럼 큰 주제가 같아도 대상자, 연도, 교육시간, 운영부서가 다를 수 있습니다. 수강신청 전에는 소속기관에서 안내한 정확한 과정명, 교육시간, 인정연도, 제출기한을 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>확인 항목</th>
+            <th>왜 중요한가요?</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>과정명</td>
+            <td>비슷한 교육을 들어도 기관에서 요구한 과정과 다르면 인정되지 않을 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>교육대상</td>
+            <td>종사자 전체 대상인지 특정 직무 대상인지 확인해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>교육시간</td>
+            <td>법정 의무교육은 요구 시간이 정해진 경우가 많습니다.</td>
+          </tr>
+          <tr>
+            <td>수료기준</td>
+            <td>진도율, 평가, 설문을 완료해야 수료증이 발급되는 경우가 있습니다.</td>
+          </tr>
+          <tr>
+            <td>제출기한</td>
+            <td>기관 평가나 내부 점검 전에 수료증 제출이 필요할 수 있습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히 수료증 발급과 기관 제출 체크</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">교육을 모두 수강한 뒤에는 내 강의실 또는 마이페이지에서 수료 상태를 확인합니다. 진도율이 100%여도 평가나 설문이 남아 있으면 수료 처리되지 않을 수 있으므로, 수료증 출력 또는 PDF 저장 버튼이 활성화되는지 확인해야 합니다. 기관 제출용으로는 수료자 이름, 교육명, 수료일, 교육시간이 보이도록 저장하는 것이 좋습니다.</p>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히의무교육 온라인수강신청 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>코히의무교육은 어디서 신청하나요?</summary>
+          <p>한국보건복지인재원 KOHI 보건복지배움인에서 회원가입 또는 로그인 후 교육과정을 검색해 수강신청할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>직무별 필수교육은 어떻게 확인하나요?</summary>
+          <p>소속기관에서 안내한 교육명과 KOHI 과정명을 대조해야 합니다. 기관 유형, 담당업무, 평가 기준에 따라 필수교육이 달라질 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>수강신청만 하면 이수로 인정되나요?</summary>
+          <p>아닙니다. 수강신청 후 강의를 끝까지 듣고, 필요한 경우 평가와 설문까지 완료해야 수료 처리됩니다.</p>
+        </details>
+        <details>
+          <summary>모바일에서도 코히의무교육을 들을 수 있나요?</summary>
+          <p>보건복지배움인은 모바일 환경에서도 접속할 수 있지만, 과정별 학습 환경과 수료증 출력 방식은 다를 수 있습니다. 제출용 수료증은 PC에서 PDF로 저장하면 관리하기 쉽습니다.</p>
+        </details>
+        <details>
+          <summary>수료증을 분실하면 다시 발급할 수 있나요?</summary>
+          <p>일반적으로 로그인 후 마이페이지 또는 내 강의실의 수료내역에서 다시 확인할 수 있습니다. 다만 과정 운영기간이나 사이트 정책에 따라 메뉴가 달라질 수 있습니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 코히의무교육 온라인수강신청은 KOHI 보건복지배움인에서 진행하되, 먼저 소속기관이 요구하는 직무별 필수교육명을 확인하는 것이 핵심입니다. 과정명과 수료기준을 맞춰 신청하고, 이수 후 수료증을 PDF로 저장해 기관 제출용으로 보관하세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
