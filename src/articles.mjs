@@ -870,11 +870,11 @@ export const articles = [
     ctas: [
       {
         label: "사전투표소 찾기",
-        url: "https://www.nec.go.kr/"
+        url: "https://info.nec.go.kr/main/showDocument.xhtml?electionId=0020260603&topMenuId=BI&secondMenuId=BIAP01"
       },
       {
         label: "선거일 투표소 확인",
-        url: "https://info.liferoom-j.com/posts/local-election-2026-polling-place-guide/"
+        url: "https://info.nec.go.kr/main/showDocument.xhtml?electionId=0020260603&topMenuId=BI&secondMenuId=BIAP01"
       }
     ],
     html: `
