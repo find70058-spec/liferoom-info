@@ -850,5 +850,166 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 2026 지방선거 투표소 조회는 사전투표와 선거일 투표를 나눠서 확인해야 합니다. 사전투표는 가까운 사전투표소를 이용할 수 있고, 선거일에는 지정 투표소에서만 투표할 수 있으므로 중앙선거관리위원회 안내와 투표안내문을 기준으로 위치를 확인하세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "local-election-2026-early-voting-place-guide",
+    category: "life",
+    title: "2026 지방선거 사전투표소 위치 준비물안내: 가까운 사전투표소 찾기",
+    description: "2026년 지방선거 사전투표소 위치 조회 방법, 사전투표 기간, 관내·관외 사전투표 차이, 신분증 준비물과 주의사항을 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-22",
+    modifiedAt: "2026-05-22",
+    readingTime: "3분",
+    tags: [
+      "2026 지방선거 사전투표소 위치",
+      "지방선거 사전투표 준비물",
+      "사전투표소 찾기",
+      "사전투표 관내 관외",
+      "제9회 전국동시지방선거 사전투표"
+    ],
+    ctas: [
+      {
+        label: "사전투표소 찾기",
+        url: "https://www.nec.go.kr/"
+      },
+      {
+        label: "선거일 투표소 확인",
+        url: "https://info.liferoom-j.com/posts/local-election-2026-polling-place-guide/"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">2026 지방선거 사전투표소 위치 준비물안내를 찾고 있다면 먼저 사전투표 기간을 확인해야 합니다. 제9회 전국동시지방선거 사전투표는 2026년 5월 29일 금요일부터 5월 30일 토요일까지 진행됩니다. 사전투표는 선거일인 6월 3일에 투표하기 어려운 유권자가 미리 투표할 수 있는 제도이며, 주소지와 관계없이 전국 사전투표소를 이용할 수 있습니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 지방선거 사전투표소 위치 조회방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">사전투표소 위치는 중앙선거관리위원회 홈페이지, 선거 관련 안내 페이지, 포털 검색, 지도 앱의 사전투표소 검색 기능을 통해 확인할 수 있습니다. 가까운 주민센터, 행정복지센터, 학교, 공공시설 등에 설치되는 경우가 많지만 선거마다 장소가 달라질 수 있으므로, 예전에 이용했던 장소라고 해도 다시 조회하는 것이 안전합니다.</p>
+      {{CTA_BUTTONS}}
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>2026 지방선거 사전투표소 위치 안내</th>
+            <th>확인할 내용</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>사전투표 기간</td>
+            <td>2026년 5월 29일~5월 30일</td>
+            <td>선거일 전 금요일과 토요일에 진행됩니다.</td>
+          </tr>
+          <tr>
+            <td>이용 가능 투표소</td>
+            <td>전국 사전투표소</td>
+            <td>주소지와 관계없이 가까운 사전투표소를 이용할 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>조회 경로</td>
+            <td>중앙선거관리위원회, 포털, 지도 앱, 지자체 안내</td>
+            <td>투표소명, 주소, 건물 위치, 편의시설 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>준비물</td>
+            <td>본인 확인 가능한 신분증</td>
+            <td>사진과 생년월일이 확인되는 신분증을 준비합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">지방선거 사전투표 준비물 신분증 안내</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">사전투표 준비물의 핵심은 신분증입니다. 주민등록증, 운전면허증, 여권, 장애인복지카드, 국가유공자증, 청소년증, 모바일 신분증처럼 사진과 생년월일로 본인을 확인할 수 있는 신분증을 준비해야 합니다. 신분증이 없으면 투표소에 도착해도 본인 확인이 어려워 투표가 제한될 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>준비물</th>
+            <th>사용 가능 예시</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>주민등록증</td>
+            <td>실물 주민등록증</td>
+            <td>사진과 생년월일 확인이 가능해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>운전면허증</td>
+            <td>실물 운전면허증 또는 인정되는 모바일 운전면허증</td>
+            <td>화면 캡처본은 인정되지 않을 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>여권</td>
+            <td>유효한 여권</td>
+            <td>사진과 본인정보 확인이 가능해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>기타 신분증</td>
+            <td>장애인복지카드, 국가유공자증, 청소년증 등</td>
+            <td>공공기관이 발행하고 사진이 포함된 신분증인지 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">사전투표 관내 관외 투표 차이</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">사전투표는 전국 어디서나 가능하지만, 관내선거인과 관외선거인의 처리 방식은 다릅니다. 관내선거인은 자신의 구·시·군 안에 있는 사전투표소에서 투표하는 경우이고, 관외선거인은 주소지 밖의 구·시·군에서 투표하는 경우입니다. 관외 사전투표는 회송용 봉투를 사용하는 절차가 포함될 수 있으므로 현장 안내에 따라 투표지를 넣고 봉함해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>의미</th>
+            <th>현장 절차</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>관내 사전투표</td>
+            <td>주소지와 같은 구·시·군 안의 사전투표소 이용</td>
+            <td>투표지를 받아 기표한 뒤 투표함에 넣습니다.</td>
+          </tr>
+          <tr>
+            <td>관외 사전투표</td>
+            <td>주소지와 다른 구·시·군의 사전투표소 이용</td>
+            <td>투표지와 회송용 봉투를 받아 기표 후 봉투에 넣어 제출합니다.</td>
+          </tr>
+          <tr>
+            <td>공통 준비물</td>
+            <td>본인 확인 신분증</td>
+            <td>신분증 확인 후 투표용지를 교부받습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 지방선거 사전투표소 방문 전 체크리스트</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">사전투표소에 방문하기 전에는 위치, 운영시간, 신분증, 이동 경로를 함께 확인하는 것이 좋습니다. 특히 도심의 공공시설이나 학교에 설치된 사전투표소는 출입구가 여러 곳일 수 있고, 주차가 제한될 수 있습니다. 장애인 편의시설이나 승강기 여부가 필요한 경우 투표소 조회 화면 또는 지자체 안내를 함께 확인하세요.</p>
+      <ol style="margin: 16px 0 24px 20px; line-height: 1.9; color: #333;">
+        <li>가까운 사전투표소 주소와 건물명을 확인합니다.</li>
+        <li>신분증을 지참했는지 확인합니다.</li>
+        <li>관내 또는 관외 사전투표 절차를 현장에서 안내받습니다.</li>
+        <li>기표 후 투표지 또는 회송용 봉투를 안내에 따라 제출합니다.</li>
+        <li>투표소 위치가 변경될 수 있으므로 출발 전 최신 정보를 다시 확인합니다.</li>
+      </ol>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 지방선거 사전투표소 위치 준비물 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>2026 지방선거 사전투표는 언제 하나요?</summary>
+          <p>2026년 제9회 전국동시지방선거 사전투표는 2026년 5월 29일부터 5월 30일까지 진행됩니다.</p>
+        </details>
+        <details>
+          <summary>사전투표소는 주소지 근처만 이용해야 하나요?</summary>
+          <p>아닙니다. 사전투표 기간에는 전국 사전투표소 어디에서나 투표할 수 있습니다. 주소지 밖에서 투표하면 관외 사전투표 절차가 적용될 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>사전투표 준비물은 무엇인가요?</summary>
+          <p>주민등록증, 운전면허증, 여권, 장애인복지카드, 모바일 신분증 등 본인 확인이 가능한 신분증이 필요합니다.</p>
+        </details>
+        <details>
+          <summary>모바일 신분증도 사용할 수 있나요?</summary>
+          <p>공식 앱에서 제시하는 모바일 신분증은 사용할 수 있습니다. 다만 캡처 이미지나 사진 파일은 인정되지 않을 수 있으므로 실제 앱 화면을 준비하는 것이 좋습니다.</p>
+        </details>
+        <details>
+          <summary>사전투표소 위치가 바뀔 수도 있나요?</summary>
+          <p>시설 사정이나 선거관리 상황에 따라 변경될 수 있습니다. 방문 전 중앙선거관리위원회 또는 포털의 최신 사전투표소 정보를 다시 확인하세요.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 2026 지방선거 사전투표소 위치는 중앙선거관리위원회와 포털 투표소 찾기에서 확인하고, 준비물은 본인 확인 신분증입니다. 사전투표는 전국 사전투표소에서 가능하므로 일정이 바쁘다면 5월 29일과 30일 중 가까운 사전투표소를 미리 조회해두세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
