@@ -689,5 +689,166 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 코히의무교육 온라인수강신청은 KOHI 보건복지배움인에서 진행하되, 먼저 소속기관이 요구하는 직무별 필수교육명을 확인하는 것이 핵심입니다. 과정명과 수료기준을 맞춰 신청하고, 이수 후 수료증을 PDF로 저장해 기관 제출용으로 보관하세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "local-election-2026-polling-place-guide",
+    category: "life",
+    title: "2026 지방선거 투표소 조회 위치안내: 내 투표소 찾기와 사전투표소 확인방법",
+    description: "2026년 제9회 전국동시지방선거 투표소 조회 방법, 사전투표소와 선거일 지정 투표소 차이, 위치 확인 경로와 신분증 준비사항을 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-22",
+    modifiedAt: "2026-05-22",
+    readingTime: "3분",
+    tags: [
+      "2026 지방선거 투표소 조회",
+      "2026 지방선거 투표소 위치",
+      "내 투표소 찾기",
+      "사전투표소 찾기",
+      "제9회 전국동시지방선거 투표소"
+    ],
+    ctas: [
+      {
+        label: "선관위 투표소 찾기",
+        url: "https://www.nec.go.kr/"
+      },
+      {
+        label: "지방선거 일정 확인",
+        url: "https://www.nec.go.kr/site/nec/main.do"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">2026 지방선거 투표소 조회 위치안내를 찾고 있다면 먼저 사전투표소와 선거일 투표소를 구분해야 합니다. 제9회 전국동시지방선거 선거일은 2026년 6월 3일 수요일이며, 선거일에는 본인의 주소지 기준으로 정해진 지정 투표소에서 투표해야 합니다. 반면 사전투표 기간에는 전국에 설치된 사전투표소 어디에서나 투표할 수 있습니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 지방선거 투표소 조회 일정 확인</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">중앙선거관리위원회 안내 기준으로 2026년 지방선거는 제9회 전국동시지방선거입니다. 사전투표는 선거일 전 금요일과 토요일인 2026년 5월 29일부터 5월 30일까지 진행되며, 선거일 투표는 2026년 6월 3일 수요일에 진행됩니다. 투표소 명칭과 소재지는 선거일 전까지 공고되고, 각 가정으로 발송되는 투표안내문에서도 확인할 수 있습니다.</p>
+      {{CTA_BUTTONS}}
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>2026 지방선거 투표소 위치안내</th>
+            <th>확인할 내용</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>사전투표</td>
+            <td>2026년 5월 29일~5월 30일</td>
+            <td>전국 사전투표소 어디에서나 투표 가능 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>선거일 투표</td>
+            <td>2026년 6월 3일 수요일</td>
+            <td>본인에게 지정된 투표소 위치를 반드시 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>조회 경로</td>
+            <td>중앙선거관리위원회, 투표안내문, 포털 투표소 찾기</td>
+            <td>주소지와 생년월일 등 조회 정보가 필요할 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>준비물</td>
+            <td>주민등록증, 운전면허증, 여권, 모바일 신분증 등</td>
+            <td>사진과 생년월일로 본인 확인이 가능한 신분증을 준비합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">내 투표소 찾기 조회방법</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">내 투표소 찾기는 중앙선거관리위원회 홈페이지의 투표소 찾기 연결 서비스, 선거 관련 안내 페이지, 포털 검색 서비스를 통해 확인할 수 있습니다. 조회 화면에서는 보통 시·도, 구·시·군, 성명, 생년월일, 성별 등 본인 확인 정보가 요구될 수 있습니다. 선거일이 가까워질수록 투표소 위치가 더 정확하게 반영되므로, 투표 당일 출발 전 한 번 더 확인하는 편이 안전합니다.</p>
+      <ol style="margin: 16px 0 24px 20px; line-height: 1.9; color: #333;">
+        <li>중앙선거관리위원회 홈페이지 또는 포털의 투표소 찾기 메뉴에 접속합니다.</li>
+        <li>사전투표소를 찾는지, 선거일 지정 투표소를 찾는지 먼저 선택합니다.</li>
+        <li>시·도와 구·시·군 등 주소 정보를 입력하거나 본인 확인 정보를 입력합니다.</li>
+        <li>투표소 명칭, 주소, 건물명, 약도와 장애인 편의시설 정보를 확인합니다.</li>
+        <li>출발 전 신분증과 운영시간을 다시 확인합니다.</li>
+      </ol>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">사전투표소와 선거일 투표소 위치 차이</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">2026 지방선거 투표소 조회에서 가장 많이 헷갈리는 부분은 사전투표소와 선거일 투표소의 차이입니다. 사전투표는 주소지와 관계없이 가까운 사전투표소를 이용할 수 있지만, 선거일 투표는 선거인명부에 따라 지정된 투표소에서만 할 수 있습니다. 따라서 6월 3일에 투표할 계획이라면 반드시 본인의 지정 투표소를 조회해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>이용 가능한 투표소</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>사전투표</td>
+            <td>전국 사전투표소</td>
+            <td>출장, 여행, 타지역 체류 중에도 가까운 사전투표소를 이용할 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>선거일 투표</td>
+            <td>주소지 기준 지정 투표소</td>
+            <td>다른 투표소에 가면 투표가 제한될 수 있으므로 반드시 위치를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>투표안내문</td>
+            <td>세대별 우편 안내</td>
+            <td>선거공보와 함께 발송되는 안내문에서 투표소명과 주소를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>변경 가능성</td>
+            <td>학교, 주민센터, 공공시설 등</td>
+            <td>공사, 시설 사정, 행정구역 변경 등으로 장소가 바뀔 수 있습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 지방선거 투표소 방문 준비물</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">투표소에 방문할 때는 본인 확인이 가능한 신분증이 필요합니다. 일반적으로 주민등록증, 운전면허증, 여권, 장애인복지카드, 국가유공자증, 모바일 신분증 등 사진과 생년월일이 포함된 공공기관 발행 신분증을 준비합니다. 신분증이 없으면 투표가 어려울 수 있으므로 출발 전 반드시 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>준비 항목</th>
+            <th>확인 내용</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>신분증</td>
+            <td>사진과 생년월일로 본인 확인이 가능한 공공기관 발행 신분증을 준비합니다.</td>
+          </tr>
+          <tr>
+            <td>투표소 주소</td>
+            <td>건물명, 입구 위치, 층수, 주차 가능 여부를 미리 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>이동 시간</td>
+            <td>마감 시간 직전에는 혼잡할 수 있어 여유 있게 이동하는 것이 좋습니다.</td>
+          </tr>
+          <tr>
+            <td>편의시설</td>
+            <td>장애인 편의시설, 승강기, 임시경사로 여부를 투표소 조회 화면에서 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026 지방선거 투표소 조회 위치안내 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>2026 지방선거 투표일은 언제인가요?</summary>
+          <p>제9회 전국동시지방선거 선거일은 2026년 6월 3일 수요일입니다. 사전투표는 2026년 5월 29일부터 5월 30일까지 진행됩니다.</p>
+        </details>
+        <details>
+          <summary>사전투표소는 어디든 이용할 수 있나요?</summary>
+          <p>사전투표 기간에는 전국 사전투표소 어디에서나 투표할 수 있습니다. 다만 선거일 본투표는 지정된 투표소에서만 가능합니다.</p>
+        </details>
+        <details>
+          <summary>선거일 투표소는 어떻게 확인하나요?</summary>
+          <p>중앙선거관리위원회 홈페이지, 투표안내문, 포털의 내 투표소 찾기 서비스를 통해 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>투표소에 신분증이 꼭 필요한가요?</summary>
+          <p>네. 주민등록증, 운전면허증, 여권, 모바일 신분증 등 본인 확인이 가능한 신분증을 준비해야 합니다.</p>
+        </details>
+        <details>
+          <summary>투표소 위치가 바뀔 수도 있나요?</summary>
+          <p>시설 사정이나 행정구역 변경 등으로 투표소가 바뀔 수 있습니다. 투표 당일 출발 전 최신 위치를 다시 확인하는 것이 좋습니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 2026 지방선거 투표소 조회는 사전투표와 선거일 투표를 나눠서 확인해야 합니다. 사전투표는 가까운 사전투표소를 이용할 수 있고, 선거일에는 지정 투표소에서만 투표할 수 있으므로 중앙선거관리위원회 안내와 투표안내문을 기준으로 위치를 확인하세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
