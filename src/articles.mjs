@@ -1011,5 +1011,165 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 2026 지방선거 사전투표소 위치는 중앙선거관리위원회와 포털 투표소 찾기에서 확인하고, 준비물은 본인 확인 신분증입니다. 사전투표는 전국 사전투표소에서 가능하므로 일정이 바쁘다면 5월 29일과 30일 중 가까운 사전투표소를 미리 조회해두세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "high-oil-support-eeum-card-balance-guide",
+    category: "support",
+    title: "고유가지원금 이음카드 잔액조회방법: 인천e음 앱 사용내역 확인 안내",
+    description: "고유가 지원금을 이음카드로 받은 경우 인천e음 앱에서 잔액, 캐시, 사용내역을 확인하는 방법과 앱 조회가 어려울 때 확인할 공식 경로를 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-23",
+    modifiedAt: "2026-05-23",
+    readingTime: "3분",
+    tags: [
+      "고유가지원금 이음카드 잔액조회방법",
+      "고유가 지원금 이음카드",
+      "인천e음 잔액조회",
+      "이음카드 사용내역",
+      "고유가 피해지원금 사용기한"
+    ],
+    ctas: [
+      {
+        label: "이음카드 잔액조회",
+        url: "https://www.incheoneum.or.kr/"
+      },
+      {
+        label: "지원금 공식안내",
+        url: "https://www.mois.go.kr/frt/sub/a06/b07/highOilPriceSupport/screen.do"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">고유가지원금 이음카드 잔액조회방법을 찾고 있다면 먼저 본인이 지원금을 어떤 지급수단으로 받았는지 확인해야 합니다. 고유가 피해지원금은 지역별 신청 방식과 지급수단이 다를 수 있고, 인천에서 이음카드 또는 인천e음 방식으로 받은 경우에는 인천e음 앱과 공식 안내 경로를 통해 잔액과 사용내역을 확인하는 것이 가장 안전합니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">고유가지원금 이음카드 잔액조회 기본 순서</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">인천e음 앱에 본인 명의 카드가 등록되어 있다면 앱 실행 후 로그인하고 내 지갑 또는 카드 영역에서 잔액을 확인할 수 있습니다. 지원금 성격의 충전금은 일반 충전 잔액, 캐시백, 정책지원금 항목으로 구분되어 보일 수 있으므로 화면에 표시되는 항목명을 함께 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>조회 단계</th>
+            <th>확인할 내용</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>앱 실행</td>
+            <td>인천e음 앱 로그인 또는 본인인증</td>
+            <td>타인 명의 카드나 미등록 카드는 앱 조회가 제한될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>카드 선택</td>
+            <td>내 지갑, 카드관리, 잔액 영역 확인</td>
+            <td>여러 카드가 있으면 지원금이 들어온 카드를 선택해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>내역 확인</td>
+            <td>충전 잔액, 캐시, 사용내역 구분</td>
+            <td>지원금 잔액과 일반 충전금이 따로 표시될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>사용처 확인</td>
+            <td>결제 가능 가맹점과 사용기한 확인</td>
+            <td>대형마트, 백화점 등 일부 업종은 제한될 수 있습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">인천e음 앱에서 이음카드 사용내역 확인방법</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">잔액만 확인하면 실제 지원금이 어디에 사용됐는지 놓치기 쉽습니다. 인천e음 앱의 이용내역 또는 결제내역 메뉴에서 최근 결제일, 가맹점명, 결제금액을 확인하면 고유가 지원금이 정상 차감됐는지 확인할 수 있습니다. 결제 취소가 있었거나 잔액 반영이 늦는 경우에는 앱을 종료 후 다시 실행하거나, 일정 시간이 지난 뒤 다시 확인하는 것이 좋습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>확인 항목</th>
+            <th>보는 이유</th>
+            <th>체크 포인트</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>충전 잔액</td>
+            <td>현재 결제 가능한 금액 확인</td>
+            <td>지원금과 개인 충전금이 합산 또는 분리 표시될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>캐시백</td>
+            <td>결제 후 적립된 혜택 확인</td>
+            <td>가맹점, 월 한도, 정책에 따라 적립률이 달라질 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>사용내역</td>
+            <td>지원금 차감 여부 확인</td>
+            <td>결제 취소 건은 반영까지 시간이 걸릴 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>사용기한</td>
+            <td>미사용 잔액 소멸 방지</td>
+            <td>고유가 피해지원금 공식 안내에 따르면 사용기한을 반드시 확인해야 합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">고유가 지원금 이음카드 조회가 안 될 때 확인사항</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">이음카드 잔액조회가 바로 되지 않는다면 카드 등록 여부, 본인 명의 여부, 앱 최신 버전, 네트워크 상태를 먼저 확인하세요. 특히 주민센터나 별도 절차로 수령한 선불카드형 지원금은 앱 회원 카드와 조회 방식이 다를 수 있습니다. 이 경우 카드 뒷면 안내, 인천e음 고객센터, 지자체 안내문을 함께 확인하는 것이 안전합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>문제 상황</th>
+            <th>가능한 원인</th>
+            <th>해결 방법</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>잔액이 0원으로 보임</td>
+            <td>지원금 지급 전, 다른 카드 선택, 반영 지연</td>
+            <td>지원금 지급 완료 알림과 선택한 카드를 다시 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>카드가 앱에 안 보임</td>
+            <td>카드 미등록 또는 타인 명의 카드</td>
+            <td>카드 등록 메뉴에서 본인 명의 카드인지 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>로그인이 안 됨</td>
+            <td>앱 오류, 비밀번호 오류, 휴대폰 인증 문제</td>
+            <td>앱 업데이트 후 재시도하고 필요하면 고객센터에 문의합니다.</td>
+          </tr>
+          <tr>
+            <td>결제가 거절됨</td>
+            <td>사용처 제한, 잔액 부족, 기한 만료</td>
+            <td>가맹점 여부와 사용기한, 남은 잔액을 함께 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">고유가 피해지원금 사용기한과 공식 확인 경로</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">행정안전부 고유가 피해지원금 안내에 따르면 신청·지급 방식, 사용처, 사용기한은 공식 안내와 지자체 안내를 함께 확인해야 합니다. 2026년 5월 18일부터 7월 3일까지 2차 지급 신청이 진행되며, 사용기한도 정해져 있으므로 잔액이 남아 있다면 기한 내 사용 여부를 반드시 확인하세요.</p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">개인정보와 카드번호를 입력하는 조회는 문자 링크나 광고 페이지가 아니라 인천e음 공식 홈페이지, 인천e음 앱, 행정안전부 또는 지자체 공식 안내에서 시작하는 것이 안전합니다. 카드번호, CVC, 인증번호를 요구하는 화면은 주소를 확인한 뒤 진행하세요.</p>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">고유가지원금 이음카드 잔액조회 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>고유가지원금 이음카드 잔액은 어디서 확인하나요?</summary>
+          <p>인천e음 앱에 카드가 등록되어 있다면 앱의 내 지갑, 카드관리, 이용내역 메뉴에서 잔액과 사용내역을 확인할 수 있습니다. 공식 홈페이지 안내와 고객센터도 함께 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>인천e음 앱에서 지원금 잔액이 안 보이면 어떻게 하나요?</summary>
+          <p>지원금 지급 완료 여부, 카드 등록 여부, 본인 명의 카드 여부를 먼저 확인하세요. 앱을 최신 버전으로 업데이트한 뒤 다시 로그인하고, 계속 안 보이면 인천e음 고객센터 또는 지자체 안내 창구에 문의하는 것이 좋습니다.</p>
+        </details>
+        <details>
+          <summary>고유가 지원금은 모든 가맹점에서 사용할 수 있나요?</summary>
+          <p>아닙니다. 지급수단과 지역 기준에 따라 사용처 제한이 있을 수 있습니다. 일반적으로 지역 소상공인 가맹점 중심으로 사용 가능하며, 대형마트나 백화점 등 일부 업종은 제한될 수 있으므로 결제 전 가맹점 여부를 확인하세요.</p>
+        </details>
+        <details>
+          <summary>잔액조회 문자 링크를 눌러도 되나요?</summary>
+          <p>공식 발송 문자인지 확실하지 않다면 누르지 않는 것이 안전합니다. 카드번호나 인증번호를 입력해야 한다면 반드시 인천e음 공식 앱 또는 공식 홈페이지에서 직접 접속해 확인하세요.</p>
+        </details>
+        <details>
+          <summary>고유가 피해지원금 사용기한은 꼭 확인해야 하나요?</summary>
+          <p>네. 지원금은 사용기한이 정해져 있고 기한이 지나면 사용하지 못할 수 있습니다. 행정안전부와 지자체 공식 안내에서 본인 지급분의 사용기한을 확인하고 잔액을 관리하세요.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 고유가지원금 이음카드 잔액조회방법은 인천e음 앱에서 카드와 잔액, 사용내역을 확인하는 것이 기본입니다. 앱 조회가 어렵다면 인천e음 공식 홈페이지와 고객센터, 행정안전부 고유가 피해지원금 공식 안내를 함께 확인해 지급수단, 사용처, 사용기한을 놓치지 마세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
