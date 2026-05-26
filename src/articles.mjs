@@ -1491,5 +1491,165 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 진주시 경남도민 생활지원금 온라인신청은 공식 누리집에서 본인인증 후 신청하고, 지급일은 신청 상태와 지급수단 처리에 따라 확인해야 합니다. 신청 후에는 지급내역 조회로 반영 여부를 확인하고, 2026년 7월 31일 전까지 사용처 제한을 확인해 사용하는 것이 핵심입니다.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "tongyeong-gyeongnam-living-support-online-guide",
+    category: "support",
+    title: "통영시 경남도민 생활지원금 온라인신청 지급일 안내: 대상·지급내역 조회 정리",
+    description: "통영시 경남도민 생활지원금 온라인신청 기간, 대상자, 신청방법, 지급일 확인과 지급내역 조회 방법을 표와 FAQ로 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-26",
+    modifiedAt: "2026-05-26",
+    readingTime: "3분",
+    tags: [
+      "통영시 경남도민 생활지원금 온라인신청",
+      "경남도민지원금 신청",
+      "통영시 생활지원금 지급일",
+      "경남도민지원금 지급내역 조회",
+      "경남도민 생활지원금 사용기한"
+    ],
+    ctas: [
+      {
+        label: "경남도민지원금 신청",
+        url: "https://www.xn--289aoyu1d8seu1nelhv8k40fb46a.kr/index.do?siteCd=001"
+      },
+      {
+        label: "지급내역 조회",
+        url: "https://www.xn--289aoyu1d8seu1nelhv8k40fb46a.kr/index.do?siteCd=001"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">통영시 경남도민 생활지원금 온라인신청 지급일 안내를 찾고 있다면 먼저 신청기간과 지급대상 기준을 확인해야 합니다. 경남도민 생활지원금은 2026년 3월 18일 기준 경상남도에 주민등록을 둔 도민을 대상으로 1인당 10만 원을 지급하는 민생 지원 사업입니다. 통영시 거주자는 공식 신청 누리집 또는 읍면동 행정복지센터를 통해 신청할 수 있습니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">통영시 경남도민 생활지원금 온라인신청 대상</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">지원대상은 기준일에 경남도 내 시군에 주민등록을 둔 도민입니다. 결혼이민자, 영주권자, 난민 인정자 등 일부 등록 외국인도 포함될 수 있으므로 외국인 가구원은 별도 안내를 확인해야 합니다. 통영시 주소지 기준으로 신청하되, 세대 구성과 지급수단 선택에 따라 신청 화면에서 확인해야 할 정보가 달라질 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>통영시 신청 전 확인사항</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>지원대상</td>
+            <td>2026년 3월 18일 기준 경남도민</td>
+            <td>주민등록 기준일을 먼저 확인해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>지급금액</td>
+            <td>1인당 10만 원</td>
+            <td>가구 단위가 아니라 개인별 지급 기준입니다.</td>
+          </tr>
+          <tr>
+            <td>신청기간</td>
+            <td>2026년 4월 30일 ~ 6월 30일</td>
+            <td>마감일 이후에는 신청이 제한될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>사용기한</td>
+            <td>2026년 7월 31일까지</td>
+            <td>미사용 잔액은 기한 이후 사용이 어려울 수 있습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">경남도민지원금 신청 온라인 절차</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">온라인신청은 경남도민 생활지원금 공식 누리집에 접속한 뒤 본인인증, 대상자 확인, 지급수단 선택, 신청정보 제출 순서로 진행합니다. 신청 초기에 접속자가 많을 수 있고, 출생연도 끝자리 기준으로 신청 요일제가 운영될 수 있으므로 화면 안내를 확인하면서 진행하는 것이 좋습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>온라인신청 단계</th>
+            <th>진행 내용</th>
+            <th>준비물</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1단계</td>
+            <td>공식 누리집 접속</td>
+            <td>휴대폰 또는 공동인증서 등 본인인증 수단</td>
+          </tr>
+          <tr>
+            <td>2단계</td>
+            <td>대상자 여부 확인</td>
+            <td>성명, 생년월일, 주소지 정보</td>
+          </tr>
+          <tr>
+            <td>3단계</td>
+            <td>지급수단 선택</td>
+            <td>지역사랑상품권, 선불카드, 카드 포인트 등 안내 확인</td>
+          </tr>
+          <tr>
+            <td>4단계</td>
+            <td>신청 완료 및 접수번호 확인</td>
+            <td>접수 완료 화면 저장 또는 문자 확인</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">통영시 생활지원금 지급일과 지급내역 조회</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">통영시 생활지원금 지급일은 신청 완료 후 대상자 검증과 지급수단 처리 일정에 따라 달라질 수 있습니다. 일반적으로 신청 직후 바로 지급되는 방식이 아니라, 접수 상태 확인과 지급 승인 절차를 거친 뒤 선택한 지급수단으로 반영됩니다. 따라서 신청 후에는 지급내역 조회 메뉴에서 접수완료, 심사중, 지급완료 여부를 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>조회 항목</th>
+            <th>확인 의미</th>
+            <th>다음 행동</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>접수완료</td>
+            <td>온라인신청이 정상 제출된 상태</td>
+            <td>접수번호와 신청정보를 보관합니다.</td>
+          </tr>
+          <tr>
+            <td>대상자 확인중</td>
+            <td>주민등록 기준, 중복 여부 등을 확인하는 상태</td>
+            <td>추가 안내 문자가 있는지 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>지급완료</td>
+            <td>선택한 지급수단에 지원금이 반영된 상태</td>
+            <td>잔액과 사용 가능 가맹점을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>보완필요</td>
+            <td>정보 불일치 또는 추가 확인이 필요한 상태</td>
+            <td>통영시 읍면동 행정복지센터 또는 안내 창구에 문의합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">경남도민 생활지원금 사용처와 사용기한</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">경남도민 생활지원금은 지역 내 소비 활성화를 목적으로 지급되므로 사용처가 제한될 수 있습니다. 통영시 내 전통시장, 동네 식당, 생활 밀착형 매장 등에서 사용할 수 있는 경우가 많지만, 대형마트, 백화점, 유흥업소, 온라인쇼핑몰 등 일부 업종은 제한될 수 있습니다. 지급수단별 사용처가 다를 수 있으므로 결제 전 가맹점 여부를 확인하세요.</p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">사용기한은 2026년 7월 31일까지로 안내됩니다. 신청을 늦게 하면 실제 사용 가능한 기간이 짧아질 수 있으므로, 신청기간 안에 빨리 접수하고 지급내역 조회로 반영 여부를 확인하는 것이 좋습니다.</p>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">통영시 경남도민 생활지원금 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>통영시 경남도민 생활지원금 신청기간은 언제까지인가요?</summary>
+          <p>2026년 4월 30일부터 6월 30일까지로 안내됩니다. 마감일 전 온라인신청 또는 방문 신청을 완료해야 합니다.</p>
+        </details>
+        <details>
+          <summary>경남도민지원금 신청은 어디서 하나요?</summary>
+          <p>경남도민 생활지원금 공식 누리집에서 온라인신청할 수 있고, 온라인 이용이 어려우면 주소지 읍면동 행정복지센터 방문 신청을 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>통영시 생활지원금 지급일은 바로 확인되나요?</summary>
+          <p>신청 직후 지급수단에 바로 반영되지 않을 수 있습니다. 접수 후 대상자 검증과 지급 처리가 진행되므로 지급내역 조회에서 상태를 확인하세요.</p>
+        </details>
+        <details>
+          <summary>지급내역 조회는 왜 필요한가요?</summary>
+          <p>접수완료 여부, 지급완료 여부, 지급수단 반영 여부를 확인하기 위해 필요합니다. 사용기한이 정해져 있으므로 지급 후 잔액과 사용처도 함께 확인해야 합니다.</p>
+        </details>
+        <details>
+          <summary>통영시 외 지역에서도 사용할 수 있나요?</summary>
+          <p>지급수단과 지역사랑상품권 운영 기준에 따라 사용 가능 지역이 달라질 수 있습니다. 신청 화면과 지급수단 안내에서 사용 가능 지역과 가맹점 기준을 확인하세요.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 통영시 경남도민 생활지원금 온라인신청은 공식 누리집에서 본인인증 후 신청하고, 지급일은 신청 상태와 지급수단 처리에 따라 확인해야 합니다. 신청 후에는 지급내역 조회로 반영 여부를 확인하고, 2026년 7월 31일 전까지 사용처 제한을 확인해 사용하는 것이 핵심입니다.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
