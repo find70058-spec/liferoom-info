@@ -1996,5 +1996,200 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 라오스 환율 원화 계산기는 킵 금액을 한국 돈으로 빠르게 가늠하는 도구입니다. 실시간 라오스킵 환율을 기준으로 계산하되, 실제 환전과 결제에는 수수료, 환전소 마진, 카드사 환율이 반영될 수 있다는 점을 함께 확인하세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "samsung-electronics-dividend-calculator-payment-date-guide",
+    category: "finance",
+    title: "삼성전자 배당금 계산기 배당금액 조회 지급일 안내",
+    description: "삼성전자 배당금 계산기 사용법, 배당금액 조회 방법, 지급일 확인 절차를 공식 배당조회 서비스 기준으로 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-27",
+    modifiedAt: "2026-05-27",
+    readingTime: "3분",
+    tags: [
+      "삼성전자 배당금 계산기",
+      "삼성전자 배당조회",
+      "삼성전자 배당금액 조회",
+      "삼성전자 배당금 지급일",
+      "삼성전자 배당조회 서비스"
+    ],
+    ctas: [
+      {
+        label: "삼성전자 배당조회",
+        url: "https://dividend.samsung.com/landing"
+      },
+      {
+        label: "배당금 계산기",
+        url: "https://dividend.samsung.com/landing"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">삼성전자 배당금 계산기 배당금액 조회 지급일 안내는 삼성전자 주식을 보유한 투자자가 예상 배당금과 실제 조회 경로를 빠르게 확인하기 위한 글입니다. 배당은 배당기준일에 주식을 보유한 주주를 대상으로 하며, 실제 배당금액과 지급일은 삼성전자 공시 및 공식 배당조회 서비스에서 확인해야 합니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">삼성전자 배당금 계산기 사용방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">배당금 계산의 기본식은 보유주식수 x 주당배당금입니다. 예를 들어 삼성전자 보통주를 100주 보유하고 주당배당금이 확정되어 있다면, 세전 배당금은 보유주식수에 주당배당금을 곱해 계산합니다. 다만 실제 계좌에 입금되는 금액은 배당소득세 원천징수 후 금액이므로 세전 금액과 차이가 날 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>계산 기준</th>
+            <th>확인 포인트</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>세전 배당금</td>
+            <td>보유주식수 x 주당배당금</td>
+            <td>공시된 주당 배당금을 기준으로 예상합니다.</td>
+          </tr>
+          <tr>
+            <td>세후 배당금</td>
+            <td>세전 배당금 - 원천징수세액</td>
+            <td>개인별 과세 상황에 따라 실제 입금액이 달라질 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>배당 대상</td>
+            <td>배당기준일 보유 주주</td>
+            <td>매수일이 아니라 기준일 주주명부 반영 여부를 확인해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>입금 확인</td>
+            <td>증권사 계좌 입금내역</td>
+            <td>공식 조회 후 실제 입금은 이용 증권사에서 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">삼성전자 배당조회 서비스 홈페이지</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">삼성전자 공식 배당조회 Web Service는 배당기준일에 삼성전자 주식을 보유한 주주가 배당내역을 확인할 수 있는 서비스입니다. 웹 브라우저 또는 모바일 앱에서 이용할 수 있고, 회원가입 후 본인확인과 주주인증 절차를 거쳐 마이페이지의 배당조회 메뉴에서 내역을 확인합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>단계</th>
+            <th>진행 내용</th>
+            <th>준비사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1단계</td>
+            <td>삼성전자 배당조회 서비스 접속</td>
+            <td>PC 또는 모바일 브라우저를 준비합니다.</td>
+          </tr>
+          <tr>
+            <td>2단계</td>
+            <td>회원가입 및 약관 동의</td>
+            <td>조회 대상 배당금과 배당기준일을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>3단계</td>
+            <td>본인확인</td>
+            <td>휴대폰 또는 인증서를 이용해 본인인증을 진행합니다.</td>
+          </tr>
+          <tr>
+            <td>4단계</td>
+            <td>주주인증</td>
+            <td>배당기준일에 보유한 증권사와 등록 주소를 입력합니다.</td>
+          </tr>
+          <tr>
+            <td>5단계</td>
+            <td>마이페이지 배당조회</td>
+            <td>로그인 후 배당내역과 지급 관련 정보를 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">삼성전자 배당금 지급일 확인 방법</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">삼성전자 배당금 지급일은 분기 또는 결산 배당별로 이사회 결의와 공시를 통해 확정됩니다. 투자자가 먼저 확인해야 할 것은 배당기준일, 주당배당금, 지급예정일입니다. 공식 배당조회 서비스에서 내역이 조회되더라도 실제 입금 시간은 이용 중인 증권사의 처리 상황에 따라 차이가 날 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>확인 항목</th>
+            <th>의미</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>배당기준일</td>
+            <td>배당 대상 주주를 확정하는 기준일</td>
+            <td>기준일에 주주명부에 반영되어야 조회 대상이 됩니다.</td>
+          </tr>
+          <tr>
+            <td>주당배당금</td>
+            <td>1주당 지급되는 배당금</td>
+            <td>보통주와 우선주는 금액이 다를 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>지급일</td>
+            <td>배당금이 증권 계좌로 입금되는 날</td>
+            <td>증권사별 입금 알림 시간은 다를 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>세후 입금액</td>
+            <td>원천징수 후 실제 들어오는 금액</td>
+            <td>세전 계산액과 실제 입금액을 구분해야 합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">삼성전자 배당금액 조회 전 체크사항</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">배당조회가 되지 않는다면 먼저 배당기준일에 실제로 삼성전자 주식을 보유했는지 확인해야 합니다. 또 주주인증 과정에서 증권사에 등록된 주소와 입력 주소가 다르면 인증이 실패할 수 있습니다. 여러 증권사 계좌에 나누어 보유했다면 각 계좌의 보유 내역과 등록 정보를 함께 확인하는 것이 좋습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>상황</th>
+            <th>확인할 내용</th>
+            <th>해결 방향</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>조회 대상이 아니라고 표시</td>
+            <td>배당기준일 보유 여부</td>
+            <td>체결일과 결제일, 기준일을 다시 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>주주인증 실패</td>
+            <td>증권사 선택과 등록 주소</td>
+            <td>증권사 앱의 개인정보 주소를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>입금액이 예상보다 적음</td>
+            <td>배당소득세 원천징수</td>
+            <td>세전 금액과 세후 입금액을 구분합니다.</td>
+          </tr>
+          <tr>
+            <td>입금 알림이 늦음</td>
+            <td>증권사 처리 시간</td>
+            <td>당일 계좌 거래내역을 다시 조회합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">삼성전자 배당금 계산기 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>삼성전자 배당금 계산기는 어떻게 계산하나요?</summary>
+          <p>보유주식수에 주당배당금을 곱하면 세전 배당금을 계산할 수 있습니다. 실제 입금액은 배당소득세 원천징수 후 금액이므로 세전 계산액과 차이가 납니다.</p>
+        </details>
+        <details>
+          <summary>삼성전자 배당조회 서비스에서 무엇을 확인할 수 있나요?</summary>
+          <p>배당기준일에 주식을 보유한 주주는 회원가입, 본인확인, 주주인증 후 마이페이지 배당조회 메뉴에서 배당내역을 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>삼성전자 배당금 지급일은 어디서 확인하나요?</summary>
+          <p>지급일은 삼성전자 공시와 공식 배당조회 서비스, 그리고 이용 중인 증권사 입금내역에서 확인하는 것이 좋습니다. 실제 알림 시간은 증권사마다 다를 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>보통주와 우선주의 배당금은 같나요?</summary>
+          <p>보통주와 우선주는 배당 조건이 다를 수 있습니다. 주당배당금은 해당 배당 공시와 공식 조회 내역을 기준으로 확인해야 합니다.</p>
+        </details>
+        <details>
+          <summary>배당조회가 되지 않으면 어떻게 해야 하나요?</summary>
+          <p>배당기준일 보유 여부, 선택한 증권사, 증권사 등록 주소를 먼저 확인하세요. 그래도 해결되지 않으면 삼성전자 배당조회 서비스 문의처를 이용하는 것이 좋습니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 삼성전자 배당금 계산기는 예상 금액을 빠르게 확인하는 용도이고, 실제 배당금액 조회와 지급일 확인은 공식 배당조회 서비스와 증권사 계좌 내역을 함께 확인하는 방식이 가장 정확합니다.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
