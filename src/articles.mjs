@@ -1651,5 +1651,190 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 통영시 경남도민 생활지원금 온라인신청은 공식 누리집에서 본인인증 후 신청하고, 지급일은 신청 상태와 지급수단 처리에 따라 확인해야 합니다. 신청 후에는 지급내역 조회로 반영 여부를 확인하고, 2026년 7월 31일 전까지 사용처 제한을 확인해 사용하는 것이 핵심입니다.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "housing-lease-report-certificate-online-guide",
+    category: "life",
+    title: "주택임대차계약신고필증 발급 재발급 온라인 발급신청방법",
+    description: "주택임대차계약신고필증 온라인 발급, 재발급, 신고이력 조회, PDF 저장과 방문 발급 준비사항을 표와 FAQ로 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-27",
+    modifiedAt: "2026-05-27",
+    readingTime: "3분",
+    tags: [
+      "주택임대차계약신고필증 발급",
+      "주택임대차계약신고필증 재발급",
+      "임대차신고필증 온라인 발급",
+      "부동산거래관리시스템 신고필증",
+      "주택임대차신고 필증 출력"
+    ],
+    ctas: [
+      {
+        label: "신고필증 발급",
+        url: "https://rtms.molit.go.kr/"
+      },
+      {
+        label: "재발급 신청",
+        url: "https://rtms.molit.go.kr/"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">주택임대차계약신고필증 발급 재발급 온라인 발급신청방법을 찾고 있다면 먼저 해당 임대차계약이 신고 완료 상태인지 확인해야 합니다. 주택 임대차 신고가 접수되고 관할 지자체 처리가 완료되면 부동산거래관리시스템에서 신고필증을 조회, 출력, PDF 저장할 수 있습니다. 분실했거나 다시 제출해야 하는 경우에도 같은 신고이력에서 재출력하는 방식으로 재발급할 수 있습니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">주택임대차계약신고필증 발급 대상과 신고기준</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">주택임대차계약 신고는 주거용 건물의 임대차계약 중 보증금 또는 월세가 일정 기준을 넘는 경우 신고 대상이 됩니다. 대표적으로 보증금 6천만 원 초과 또는 월차임 30만 원 초과 계약은 계약일로부터 30일 이내 신고 대상이 될 수 있습니다. 신고가 완료되면 확정일자와 연계되는 경우가 있어 전입신고, 대출, 보증보험, 행정 제출용으로 신고필증이 필요할 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>확인 내용</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>신고 대상</td>
+            <td>보증금 6천만 원 초과 또는 월세 30만 원 초과 주택 임대차계약</td>
+            <td>지역과 계약 유형에 따라 세부 적용 여부를 확인해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>신고 기한</td>
+            <td>계약 체결일로부터 30일 이내</td>
+            <td>기한을 넘기면 과태료 대상이 될 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>발급 시점</td>
+            <td>신고 접수 후 처리 완료 상태</td>
+            <td>처리 전에는 신고필증 출력 버튼이 보이지 않을 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>발급 용도</td>
+            <td>대출, 보증보험, 행정 제출, 계약 신고 확인</td>
+            <td>제출기관이 요구하는 출력본 또는 PDF 형식을 확인하세요.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">주택임대차계약신고필증 온라인 발급신청방법</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">온라인 발급은 부동산거래관리시스템에 접속한 뒤 주택임대차신고 메뉴에서 신고이력 또는 임대차신고 현황을 조회하는 방식으로 진행합니다. 본인인증 또는 공동인증서 로그인이 필요할 수 있으며, 계약 당사자 정보와 물건지 주소가 일치해야 조회가 원활합니다. 신고필증 버튼이 활성화되면 인쇄하거나 PDF 저장을 선택하면 됩니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>온라인 발급 단계</th>
+            <th>진행 내용</th>
+            <th>체크 포인트</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1단계</td>
+            <td>부동산거래관리시스템 접속</td>
+            <td>주택임대차신고 메뉴를 선택합니다.</td>
+          </tr>
+          <tr>
+            <td>2단계</td>
+            <td>로그인 및 본인인증</td>
+            <td>계약 당사자 또는 신고인 정보로 조회해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>3단계</td>
+            <td>신고이력 조회</td>
+            <td>계약일, 주소, 신고번호를 기준으로 찾습니다.</td>
+          </tr>
+          <tr>
+            <td>4단계</td>
+            <td>신고필증 출력 또는 PDF 저장</td>
+            <td>프린터 선택 화면에서 PDF 저장도 가능합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">주택임대차계약신고필증 재발급 조회 방법</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">주택임대차계약신고필증 재발급은 별도 민원 신청을 새로 하는 개념보다, 기존 신고이력을 다시 조회해 필증을 재출력하는 방식에 가깝습니다. 따라서 최초 신고가 정상 처리되어 있어야 하며, 신고인이 아닌 경우에는 온라인 조회가 제한될 수 있습니다. 공동계약, 대리신고, 중개사 신고 건은 조회 권한과 전자서명 상태를 함께 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>상황</th>
+            <th>가능한 원인</th>
+            <th>해결 방법</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>신고필증 버튼이 안 보임</td>
+            <td>처리 완료 전 또는 전자서명 미완료</td>
+            <td>신고 상태가 수리 또는 처리완료인지 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>신고이력이 조회되지 않음</td>
+            <td>주소, 계약일, 신고인 정보 불일치</td>
+            <td>계약서 정보와 물건지 관할 지역을 다시 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>PDF 저장이 안 됨</td>
+            <td>브라우저 팝업 차단 또는 프린터 설정 문제</td>
+            <td>팝업 허용 후 인쇄 화면에서 PDF 저장을 선택합니다.</td>
+          </tr>
+          <tr>
+            <td>온라인 조회 권한 없음</td>
+            <td>대리인, 중개사, 공동계약 정보 차이</td>
+            <td>관할 주민센터 또는 지자체 부동산 민원 창구에 문의합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">방문 발급과 온라인 발급 준비물 차이</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">온라인 발급이 어렵다면 주택 소재지 관할 읍면동 주민센터 또는 지자체 부동산 민원 창구에서 확인할 수 있습니다. 방문 시에는 신분증, 임대차계약서, 대리인 방문 시 위임장 등 추가 서류가 필요할 수 있습니다. 이미 신고가 완료된 건이라도 본인 확인이 되지 않으면 발급이 제한될 수 있으므로 방문 전 관할 창구에 준비물을 확인하는 것이 좋습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>발급 방식</th>
+            <th>필요한 준비물</th>
+            <th>적합한 경우</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>온라인 발급</td>
+            <td>본인인증 수단, 계약 정보</td>
+            <td>신고이력이 본인 명의로 조회되는 경우</td>
+          </tr>
+          <tr>
+            <td>방문 발급</td>
+            <td>신분증, 임대차계약서, 대리 시 위임서류</td>
+            <td>온라인 조회가 안 되거나 권한 확인이 필요한 경우</td>
+          </tr>
+          <tr>
+            <td>대리 발급</td>
+            <td>위임장, 대리인 신분증, 위임자 확인서류</td>
+            <td>계약 당사자가 직접 방문하기 어려운 경우</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">주택임대차계약신고필증 발급 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>주택임대차계약신고필증은 어디서 발급하나요?</summary>
+          <p>온라인은 부동산거래관리시스템에서 신고이력을 조회해 발급할 수 있고, 방문은 주택 소재지 관할 주민센터 또는 지자체 민원 창구에서 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>주택임대차계약신고필증 재발급은 새로 신청해야 하나요?</summary>
+          <p>대부분 기존 신고이력을 다시 조회해 신고필증을 재출력하는 방식입니다. 신고가 완료된 계약이어야 하며, 조회 권한이 맞아야 합니다.</p>
+        </details>
+        <details>
+          <summary>신고필증을 PDF로 저장할 수 있나요?</summary>
+          <p>가능합니다. 신고필증 인쇄 화면에서 프린터 대신 PDF 저장을 선택하면 파일로 보관할 수 있습니다. 브라우저 팝업 차단은 해제해야 할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>신고필증 버튼이 안 보이면 어떻게 하나요?</summary>
+          <p>신고가 아직 처리 중이거나 전자서명, 보완 요청이 남아 있을 수 있습니다. 신고 상태를 확인하고 필요하면 관할 지자체에 문의하세요.</p>
+        </details>
+        <details>
+          <summary>임대차계약 신고를 안 했으면 필증 발급이 가능한가요?</summary>
+          <p>아닙니다. 신고필증은 신고가 접수·처리된 뒤 발급되는 문서입니다. 먼저 주택임대차계약 신고 대상인지 확인하고 신고 절차를 완료해야 합니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 주택임대차계약신고필증 발급과 재발급은 부동산거래관리시스템에서 신고이력을 조회한 뒤 출력하는 방식이 기본입니다. 온라인 조회가 어렵거나 대리 발급이 필요한 경우에는 주택 소재지 관할 주민센터 또는 지자체 민원 창구에 준비물을 확인한 뒤 방문하세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
