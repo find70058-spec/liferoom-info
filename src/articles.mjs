@@ -2191,5 +2191,200 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 삼성전자 배당금 계산기는 예상 금액을 빠르게 확인하는 용도이고, 실제 배당금액 조회와 지급일 확인은 공식 배당조회 서비스와 증권사 계좌 내역을 함께 확인하는 방식이 가장 정확합니다.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "private-taxi-transfer-training-reservation-schedule-guide",
+    category: "life",
+    title: "개인택시 양수교육 예약 일정 신청방법 및 교육과정",
+    description: "개인택시 양수교육 예약 일정 확인, 신청방법, 5일 과정과 2일 경력자 과정, 준비사항을 표와 FAQ로 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-27",
+    modifiedAt: "2026-05-27",
+    readingTime: "3분",
+    tags: [
+      "개인택시 양수교육 예약",
+      "개인택시 양수교육 일정",
+      "개인택시 양수교육 신청방법",
+      "개인택시 양수교육 교육과정",
+      "교통안전체험교육센터"
+    ],
+    ctas: [
+      {
+        label: "양수교육 신청",
+        url: "https://tslms.kotsa.or.kr/main.do"
+      },
+      {
+        label: "교육일정 보기",
+        url: "https://tslms.kotsa.or.kr/main.do"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">개인택시 양수교육 예약 일정 신청방법 및 교육과정은 개인택시면허 양수를 준비하는 사람이 가장 먼저 확인해야 하는 정보입니다. 한국교통안전공단 교통안전체험교육센터에서는 개인택시 양수교육 5일 과정과 경력자 대상 2일 과정, 교육일정 확인, 교육예약 메뉴를 운영합니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">개인택시 양수교육 예약 신청방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">개인택시 양수교육 예약은 교통안전체험교육센터 홈페이지에서 로그인 후 진행합니다. 접수기간에는 신청자가 몰릴 수 있으므로 회원가입, 본인확인, 지원자격 확인, 교육센터 선택을 미리 준비하는 것이 좋습니다. 실제 예약 가능 여부는 공고와 월간·연간 교육일정에 따라 달라질 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>단계</th>
+            <th>진행 내용</th>
+            <th>확인사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1단계</td>
+            <td>교통안전체험교육센터 접속</td>
+            <td>공식 홈페이지에서 개인택시 양수교육 메뉴를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>2단계</td>
+            <td>로그인 또는 회원가입</td>
+            <td>예약 전 계정과 본인확인 정보를 준비합니다.</td>
+          </tr>
+          <tr>
+            <td>3단계</td>
+            <td>교육일정 확인</td>
+            <td>월간교육일정과 연간교육일정을 먼저 비교합니다.</td>
+          </tr>
+          <tr>
+            <td>4단계</td>
+            <td>과정 선택</td>
+            <td>5일 과정 또는 2일 경력자 과정을 구분합니다.</td>
+          </tr>
+          <tr>
+            <td>5단계</td>
+            <td>예약 신청 및 확인</td>
+            <td>마이페이지에서 예약 과정과 취소 가능 여부를 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">개인택시 양수교육 일정 확인</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">공식 홈페이지에는 교육예약 메뉴 아래 교육일정확인, 월간교육일정, 연간교육일정 메뉴가 있습니다. 교육은 센터별로 운영되며 화성교육센터와 상주교육센터 등 교육장 상황에 따라 개설 일정이 달라질 수 있습니다. 따라서 원하는 지역과 기간이 있다면 공고와 교육일정을 함께 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>확인 메뉴</th>
+            <th>주요 내용</th>
+            <th>활용 방법</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>월간교육일정</td>
+            <td>월별 개설 과정과 교육일 확인</td>
+            <td>가까운 일정의 예약 가능 여부를 빠르게 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>연간교육일정</td>
+            <td>연중 교육 운영 흐름 확인</td>
+            <td>면허 양수 계획에 맞춰 장기 일정을 잡을 때 참고합니다.</td>
+          </tr>
+          <tr>
+            <td>공고</td>
+            <td>분기별 접수 안내와 추첨 안내</td>
+            <td>접수 방식, 결과 발표, 유의사항을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>마이페이지</td>
+            <td>예약 과정과 수료내역 확인</td>
+            <td>신청 후 예약 상태와 취소 가능 여부를 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">개인택시 양수교육 5일 과정과 2일 과정</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">개인택시 양수교육은 일반 대상자가 확인하는 5일 과정과 경력자 대상 2일 과정으로 구분되어 안내됩니다. 다만 경력자 과정은 대상 요건이 따로 적용될 수 있으므로, 단순히 운전경력이 있다는 이유만으로 2일 과정 대상이 되는 것은 아닙니다. 반드시 공식 과정 안내와 지원자격 확인 메뉴를 기준으로 판단하세요.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>대상</th>
+            <th>확인 포인트</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>개인택시 양수교육 5일</td>
+            <td>일반 신청자가 주로 확인하는 과정</td>
+            <td>교육기간, 센터, 접수기간을 함께 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>개인택시 양수교육 2일</td>
+            <td>경력자 요건 확인이 필요한 과정</td>
+            <td>경력 인정 기준과 지원자격을 먼저 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>교육예약</td>
+            <td>과정별 예약 가능 인원 대상</td>
+            <td>선착순 또는 추첨 등 공고 내용을 확인해야 합니다.</td>
+          </tr>
+          <tr>
+            <td>수료 확인</td>
+            <td>교육을 마친 신청자</td>
+            <td>마이페이지 수강완료과정에서 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">개인택시 양수교육 예약 전 준비사항</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">예약 전에는 본인 명의 휴대폰 또는 인증 수단, 운전경력 관련 정보, 교육센터 선택, 교육비 납부 가능 여부를 확인해 두는 것이 좋습니다. 특히 분기별 접수 공고가 올라오는 시기에는 예약 경쟁이 치열할 수 있어, 공지와 공고 메뉴를 자주 확인하는 것이 중요합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>준비 항목</th>
+            <th>필요 이유</th>
+            <th>체크 방법</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>회원가입 정보</td>
+            <td>교육예약과 마이페이지 이용에 필요</td>
+            <td>접수 전 로그인 가능 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>지원자격</td>
+            <td>과정 선택과 예약 가능 여부 판단</td>
+            <td>마이페이지 지원자격 확인 메뉴를 이용합니다.</td>
+          </tr>
+          <tr>
+            <td>교육센터</td>
+            <td>화성·상주 등 센터별 일정이 다름</td>
+            <td>월간·연간 교육일정에서 센터를 비교합니다.</td>
+          </tr>
+          <tr>
+            <td>접수 공고</td>
+            <td>접수기간과 결과 발표 확인</td>
+            <td>고객센터 공지·공고 게시판을 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">개인택시 양수교육 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>개인택시 양수교육 예약은 어디서 하나요?</summary>
+          <p>한국교통안전공단 교통안전체험교육센터 홈페이지에서 로그인 후 개인택시 양수교육 예약 메뉴를 통해 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>개인택시 양수교육 일정은 어디서 보나요?</summary>
+          <p>공식 홈페이지의 교육예약 메뉴에서 교육일정확인, 월간교육일정, 연간교육일정 메뉴를 확인하면 됩니다.</p>
+        </details>
+        <details>
+          <summary>5일 과정과 2일 과정은 무엇이 다른가요?</summary>
+          <p>일반 과정은 5일 과정으로 안내되고, 2일 과정은 경력자 요건을 확인해야 하는 과정입니다. 정확한 대상 여부는 공식 과정 안내와 지원자격 확인 메뉴를 기준으로 판단해야 합니다.</p>
+        </details>
+        <details>
+          <summary>예약 후 교육 취소는 어디서 확인하나요?</summary>
+          <p>마이페이지의 교육예약과정 보기 메뉴에서 예약 과정과 취소 가능 여부를 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>예약이 바로 마감되면 어떻게 해야 하나요?</summary>
+          <p>분기별 공고, 추첨 안내, 추가 접수 여부를 공지·공고 게시판에서 확인하고 다음 월간 또는 연간 교육일정을 함께 확인하는 것이 좋습니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 개인택시 양수교육은 공식 홈페이지에서 교육일정과 공고를 먼저 확인하고, 본인에게 맞는 5일 과정 또는 2일 경력자 과정을 선택해 예약해야 합니다. 일정과 접수 방식은 수시로 달라질 수 있으므로 신청 전 공식 홈페이지 확인이 가장 중요합니다.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
