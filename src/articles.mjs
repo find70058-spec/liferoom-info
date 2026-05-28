@@ -2386,5 +2386,195 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 개인택시 양수교육은 공식 홈페이지에서 교육일정과 공고를 먼저 확인하고, 본인에게 맞는 5일 과정 또는 2일 경력자 과정을 선택해 예약해야 합니다. 일정과 접수 방식은 수시로 달라질 수 있으므로 신청 전 공식 홈페이지 확인이 가장 중요합니다.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "nowon-surakhyu-forest-reservation-price-location-guide",
+    category: "life",
+    title: "노원 수락휴 자연휴양림 사전예약 가격 위치안내",
+    description: "노원 수락휴 자연휴양림 사전예약 방법, 이용요금 확인, 객실 종류, 위치와 대중교통 안내를 표와 FAQ로 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-28",
+    modifiedAt: "2026-05-28",
+    readingTime: "3분",
+    tags: [
+      "노원 수락휴 자연휴양림",
+      "수락휴 사전예약",
+      "수락휴 이용요금",
+      "수락휴 위치",
+      "노원 자연휴양림 예약"
+    ],
+    ctas: [
+      {
+        label: "사전예약 바로가기",
+        url: "https://www.nowon.kr/surakhyu/web/main/main"
+      },
+      {
+        label: "이용요금 자세히",
+        url: "https://www.nowon.kr/surakhyu/web/main/main"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">노원 수락휴 자연휴양림 사전예약 가격 위치안내는 서울 안에서 숲속 숙박을 찾는 분들이 예약 전 꼭 확인해야 하는 정보입니다. 수락휴는 수락산동막골자연휴양림 공식 홈페이지에서 객실, 식당 및 카페, 주변시설, 체험프로그램, 예약 메뉴를 안내하고 있습니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">노원 수락휴 자연휴양림 사전예약 방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">수락휴 예약은 공식 홈페이지의 예약 메뉴에서 예약일정 및 요금을 먼저 확인한 뒤 숙박 예약하기 또는 체험프로그램 예약하기로 이동하는 흐름입니다. 숙박 예약은 숲나들e와 연결되어 안내되고, 체험프로그램은 서울시 공공서비스예약으로 연결될 수 있으므로 예약하려는 항목을 정확히 구분해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>확인 메뉴</th>
+            <th>예약 전 체크</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>숙박 예약</td>
+            <td>예약 > 숙박 예약하기</td>
+            <td>객실 종류, 일정, 인원, 예약 가능 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>요금 확인</td>
+            <td>예약 > 예약일정 및 요금</td>
+            <td>객실별 이용요금과 예약 가능 기간을 비교합니다.</td>
+          </tr>
+          <tr>
+            <td>체험 예약</td>
+            <td>예약 > 체험프로그램 예약하기</td>
+            <td>국궁체험, 무장애숲길체험 등 프로그램별 일정을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>공지 확인</td>
+            <td>알림마당 > 공지사항</td>
+            <td>운영 변경, 휴관, 예약 관련 안내를 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">수락휴 사전예약 바로가기와 이용요금</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">수락휴 이용요금은 객실 유형과 예약일정에 따라 달라질 수 있습니다. 공식 홈페이지에서는 예약일정 및 요금 메뉴를 제공하므로 예약 전에 반드시 최신 요금을 확인하세요. 특히 주말, 성수기, 공휴일 전후에는 예약 가능 여부와 요금 조건이 달라질 수 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>객실·시설</th>
+            <th>공식 안내 메뉴</th>
+            <th>선택 기준</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>트리하우스</td>
+            <td>객실 > 트리하우스</td>
+            <td>숲과 가까운 특별한 숙박 경험을 원할 때 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>2인실</td>
+            <td>객실 > 2인실</td>
+            <td>본동 객실과 개별동 객실을 비교해 선택합니다.</td>
+          </tr>
+          <tr>
+            <td>4인실</td>
+            <td>객실 > 4인실</td>
+            <td>가족 또는 소규모 모임 이용 시 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>6인실</td>
+            <td>객실 > 6인실</td>
+            <td>인원 기준과 추가 이용 조건을 함께 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">노원 수락휴 자연휴양림 위치안내</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">노원 수락휴 자연휴양림 위치는 서울시 노원구 덕릉로145길 108입니다. 공식 홈페이지의 오시는 길 안내에 따르면 4호선 불암산역에서 도보 이동이 가능하고, 버스 이용 시 상계3·4동 주민센터 정류장에서 내려 도보로 이동하는 방식이 안내되어 있습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>이동 방법</th>
+            <th>경로</th>
+            <th>참고사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>주소</td>
+            <td>서울시 노원구 덕릉로145길 108</td>
+            <td>내비게이션 입력 시 공식 주소를 기준으로 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>지하철</td>
+            <td>4호선 불암산역 하차</td>
+            <td>도보 이동 또는 버스 환승 경로를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>버스</td>
+            <td>상계3·4동 주민센터 하차</td>
+            <td>하차 후 도보 이동 시간이 있으니 여유 있게 출발합니다.</td>
+          </tr>
+          <tr>
+            <td>문의</td>
+            <td>방문자센터 02-931-3952</td>
+            <td>운영 상황이나 방문 전 확인이 필요할 때 참고합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">수락휴 예약 전 체크사항</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">예약 전에는 이용 날짜, 입실 인원, 객실 종류, 환불 규정, 주차와 대중교통 동선을 함께 확인하는 것이 좋습니다. 숲속 시설 특성상 날씨, 시설 정비, 공지사항에 따라 일부 프로그램이나 이용 조건이 바뀔 수 있습니다. 예약 버튼을 누르기 전 공식 홈페이지의 공지사항과 예약일정 메뉴를 함께 확인하세요.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>체크 항목</th>
+            <th>확인 이유</th>
+            <th>확인 위치</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>예약 가능일</td>
+            <td>원하는 날짜에 객실이 있는지 확인</td>
+            <td>예약일정 및 요금 메뉴</td>
+          </tr>
+          <tr>
+            <td>객실 인원</td>
+            <td>객실별 기준 인원과 이용 조건 확인</td>
+            <td>객실 소개 메뉴</td>
+          </tr>
+          <tr>
+            <td>체험프로그램</td>
+            <td>숙박과 별도 예약이 필요할 수 있음</td>
+            <td>체험프로그램 예약하기</td>
+          </tr>
+          <tr>
+            <td>오시는 길</td>
+            <td>도보·버스 이동 시간을 고려</td>
+            <td>수락휴 > 오시는길</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">노원 수락휴 자연휴양림 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>노원 수락휴 자연휴양림 예약은 어디서 하나요?</summary>
+          <p>공식 홈페이지의 예약 메뉴에서 예약일정 및 요금을 확인한 뒤 숙박 예약하기 또는 체험프로그램 예약하기 메뉴로 이동해 예약을 진행합니다.</p>
+        </details>
+        <details>
+          <summary>수락휴 이용요금은 어디서 확인하나요?</summary>
+          <p>공식 홈페이지 예약 메뉴의 예약일정 및 요금에서 최신 요금을 확인하는 것이 가장 정확합니다. 요금은 객실과 일정에 따라 달라질 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>수락휴 위치는 어디인가요?</summary>
+          <p>서울시 노원구 덕릉로145길 108입니다. 4호선 불암산역 또는 상계3·4동 주민센터 정류장을 기준으로 이동 경로를 확인할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>체험프로그램도 같이 예약해야 하나요?</summary>
+          <p>체험프로그램은 숙박 예약과 별도 메뉴로 안내됩니다. 원하는 프로그램이 있다면 체험프로그램 예약하기 메뉴에서 일정과 신청 가능 여부를 따로 확인하세요.</p>
+        </details>
+        <details>
+          <summary>예약 전에 꼭 확인할 것은 무엇인가요?</summary>
+          <p>예약 가능일, 객실 기준 인원, 이용요금, 공지사항, 오시는 길을 함께 확인하는 것이 좋습니다. 특히 주말과 공휴일 전후에는 예약 가능 여부가 빠르게 변동될 수 있습니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 노원 수락휴 자연휴양림은 공식 홈페이지에서 사전예약과 이용요금을 먼저 확인하고, 객실 종류와 위치, 이동 방법을 함께 비교한 뒤 예약하는 것이 좋습니다. 최신 예약일정과 가격은 공식 홈페이지 기준으로 확인하세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
