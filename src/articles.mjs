@@ -2576,5 +2576,205 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 노원 수락휴 자연휴양림은 공식 홈페이지에서 사전예약과 이용요금을 먼저 확인하고, 객실 종류와 위치, 이동 방법을 함께 비교한 뒤 예약하는 것이 좋습니다. 최신 예약일정과 가격은 공식 홈페이지 기준으로 확인하세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "kohi-mandatory-training-application-job-required-guide",
+    category: "education",
+    title: "코히 의무교육 수강신청방법 직무별 필수교육 안내",
+    description: "코히 의무교육 수강신청방법, KOHI 보건복지배움인 교육과정 검색, 직무별 필수교육과 교육일정 확인 방법을 표와 FAQ로 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-05-28",
+    modifiedAt: "2026-05-28",
+    readingTime: "3분",
+    tags: [
+      "코히 의무교육",
+      "코히 수강신청",
+      "KOHI 보건복지배움인",
+      "직무별 필수교육",
+      "코히 교육일정"
+    ],
+    ctas: [
+      {
+        label: "수강신청 바로가기",
+        url: "https://edu.kohi.or.kr/index.do"
+      },
+      {
+        label: "교육일정 자세히",
+        url: "https://edu.kohi.or.kr/index.do"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">코히 의무교육 수강신청방법 직무별 필수교육 안내는 보건복지 분야 종사자가 KOHI 보건복지배움인에서 필요한 교육을 찾고 신청할 때 확인해야 하는 내용입니다. KOHI 포털에서는 교육과정신청, 교육과정 검색, 연간교육일정, 공지사항, 수료증 확인 등 학습에 필요한 메뉴를 제공합니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히 의무교육 수강신청방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">코히 의무교육은 먼저 회원가입 또는 로그인을 한 뒤 교육과정명을 검색해 신청합니다. 과정 상세에서는 교육대상, 교육구분, 모집상태, 수료기준을 확인해야 합니다. 같은 주제라도 대상자나 인정연도, 교육시간이 다를 수 있으므로 소속기관에서 안내한 정확한 과정명을 기준으로 신청하는 것이 중요합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>단계</th>
+            <th>수강신청 절차</th>
+            <th>체크사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1단계</td>
+            <td>KOHI 보건복지배움인 접속</td>
+            <td>공식 포털 주소와 로그인 가능 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>2단계</td>
+            <td>회원가입 또는 로그인</td>
+            <td>개인회원, 기관회원, SNS 또는 인증서 로그인 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>3단계</td>
+            <td>교육과정 검색</td>
+            <td>과정명 또는 인기검색 키워드로 필요한 과정을 찾습니다.</td>
+          </tr>
+          <tr>
+            <td>4단계</td>
+            <td>과정 상세 확인</td>
+            <td>교육대상, 모집상태, 수료기준, 교육방식을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>5단계</td>
+            <td>수강신청 및 학습</td>
+            <td>나의 강의실에서 학습을 진행하고 수료 여부를 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히 수강신청 바로가기와 교육일정</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">KOHI 포털의 교육과정 검색에서는 교육구분을 대면, 라이브, 하이브리드, 이러닝, B/L 등으로 나누어 확인할 수 있습니다. 과정구분은 보건복지공통교육, 사회복지교육, 보건교육, 바이오헬스교육, 필수의무교육 등으로 구분됩니다. 모집상태는 모집예정, 모집중, 모집마감으로 표시되므로 신청 전 반드시 확인하세요.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>확인 항목</th>
+            <th>내용</th>
+            <th>활용 방법</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>교육구분</td>
+            <td>대면, 라이브, 하이브리드, 이러닝, B/L</td>
+            <td>온라인 수강인지 집합교육인지 먼저 구분합니다.</td>
+          </tr>
+          <tr>
+            <td>과정구분</td>
+            <td>보건복지공통, 사회복지, 보건, 필수의무교육 등</td>
+            <td>직무와 기관 기준에 맞는 교육 영역을 선택합니다.</td>
+          </tr>
+          <tr>
+            <td>교육대상</td>
+            <td>공무원, 민간, 공무직 등</td>
+            <td>본인 신분과 소속기관 기준에 맞는지 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>모집상태</td>
+            <td>모집예정, 모집중, 모집마감</td>
+            <td>신청 가능한 과정인지 바로 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히 직무별 필수교육 확인표</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">직무별 필수교육은 기관 유형과 담당 업무에 따라 달라집니다. 같은 보건복지 분야라도 노인복지, 장애인복지, 사회복지시설, 보건의료, 공공기관 담당자에게 필요한 과정이 다를 수 있습니다. 따라서 수강신청 전에는 기관 공문이나 내부 안내문에 적힌 과정명을 KOHI 과정명과 비교해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>직무·기관 유형</th>
+            <th>확인할 교육 예시</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>노인복지·요양기관</td>
+            <td>노인인권, 노인학대 예방, 신고의무 관련 교육</td>
+            <td>시설평가나 지자체 점검에서 요구하는 과정명을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>사회복지시설</td>
+            <td>긴급복지지원, 사회서비스, 기타 필수의무교육</td>
+            <td>전 직원 대상인지 특정 직무 대상인지 구분합니다.</td>
+          </tr>
+          <tr>
+            <td>아동·장애인복지 분야</td>
+            <td>학대신고의무, 인권, 안전 관련 교육</td>
+            <td>기관별 인정 기준과 제출기한을 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>보건·의료 분야</td>
+            <td>보건교육, 의료서비스, 감염 관련 과정</td>
+            <td>교육대상과 과정구분이 본인 직무와 맞는지 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>공공기관·지자체</td>
+            <td>보건복지공통교육, 정책·행정 직무교육</td>
+            <td>공문에 명시된 교육시간과 수료기준을 맞춰야 합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히 교육일정 자세히 확인하는 방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">교육일정은 교육소식 메뉴의 연간교육일정과 과정별 상세 페이지에서 함께 확인하는 것이 좋습니다. 연간교육일정은 전체 흐름을 보는 데 유용하고, 과정 상세 페이지는 실제 모집상태와 신청 가능 여부를 확인하는 데 필요합니다. 교육 일정은 변경될 수 있으므로 신청 직전 최신 공지사항도 확인하세요.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>메뉴</th>
+            <th>확인 내용</th>
+            <th>확인 이유</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>연간교육일정</td>
+            <td>연중 운영되는 교육 흐름</td>
+            <td>기관 제출기한에 맞춰 미리 계획할 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>교육과정 검색</td>
+            <td>현재 모집 상태와 과정 상세</td>
+            <td>실제 신청 가능 여부를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>공지사항</td>
+            <td>교육 안내, 변경, 신규 과정 소식</td>
+            <td>일정 변경이나 신규 오픈 안내를 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>학습지원 FAQ</td>
+            <td>로그인, 수료, 수료증 관련 도움말</td>
+            <td>수강 중 오류나 수료증 문제를 해결할 때 참고합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">코히 의무교육 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>코히 의무교육은 어디서 신청하나요?</summary>
+          <p>KOHI 보건복지배움인 공식 홈페이지에서 회원가입 또는 로그인 후 교육과정신청 메뉴를 통해 신청할 수 있습니다.</p>
+        </details>
+        <details>
+          <summary>직무별 필수교육은 어떻게 확인하나요?</summary>
+          <p>소속기관에서 안내한 과정명, 교육시간, 제출기한을 먼저 확인한 뒤 KOHI 교육과정 검색에서 동일하거나 인정 가능한 과정을 찾아야 합니다.</p>
+        </details>
+        <details>
+          <summary>수강신청만 하면 이수로 인정되나요?</summary>
+          <p>아닙니다. 수강신청 후 강의를 끝까지 이수하고, 과정별 평가나 설문 등 수료조건을 충족해야 수료 처리됩니다.</p>
+        </details>
+        <details>
+          <summary>코히 교육일정은 어디서 보나요?</summary>
+          <p>교육소식 메뉴의 연간교육일정과 각 과정 상세 페이지에서 확인할 수 있습니다. 모집상태가 모집중인지도 함께 확인해야 합니다.</p>
+        </details>
+        <details>
+          <summary>수료증은 어떻게 발급하나요?</summary>
+          <p>수료 후 마이페이지 또는 나의 강의실에서 수료내역을 확인하고 수료증을 출력하거나 PDF로 저장해 기관 제출용으로 보관하면 됩니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 코히 의무교육 수강신청은 KOHI 보건복지배움인에서 진행하되, 직무별 필수교육명과 수료기준을 먼저 확인하는 것이 핵심입니다. 과정명, 교육대상, 모집상태, 교육일정을 확인한 뒤 신청하고 수료증까지 저장해 두세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
