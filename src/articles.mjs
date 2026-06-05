@@ -2776,5 +2776,195 @@ export const articles = [
       <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 코히 의무교육 수강신청은 KOHI 보건복지배움인에서 진행하되, 직무별 필수교육명과 수료기준을 먼저 확인하는 것이 핵심입니다. 과정명, 교육대상, 모집상태, 교육일정을 확인한 뒤 신청하고 수료증까지 저장해 두세요.</p>
       <!-- CONTENT END 1 -->
     `
+  },
+  {
+    slug: "divorce-camp-3000won-couple-instagram-guide",
+    category: "life",
+    title: "2026년 6월 4일 방송된 이혼숙려캠프에 나온 3000원 부부 인스타그램 바로가기",
+    description: "이혼숙려캠프 88회 3000원 부부로 알려진 임승일 최설화 단짠커플 인스타그램 바로가기와 방송 정보, 계정 확인 주의사항을 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-06-05",
+    modifiedAt: "2026-06-05",
+    readingTime: "3분",
+    tags: [
+      "이혼숙려캠프 3000원 부부",
+      "임승일 최설화 인스타",
+      "단짠커플 인스타",
+      "이혼숙려캠프 88회",
+      "3000원 부부 인스타그램"
+    ],
+    ctas: [
+      {
+        label: "임승일 최설화 인스타",
+        url: "https://www.instagram.com/dzz._.couple/"
+      },
+      {
+        label: "단짠커플 인스타",
+        url: "https://www.instagram.com/dzz._.couple/"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">2026년 6월 4일 방송된 JTBC 이혼숙려캠프 88회에는 결혼을 앞둔 예비 부부가 출연했고, 여러 보도에서 이른바 3000원 부부로 소개됐습니다. 방송 이후 임승일 최설화 인스타, 단짠커플 인스타그램 바로가기를 찾는 분들이 늘어 공식 계정 접속 경로와 확인 방법을 정리했습니다.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">이혼숙려캠프 3000원 부부 인스타그램 바로가기</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">방송 이후 가장 많이 검색되는 정보는 단짠커플 인스타그램 계정입니다. 인스타그램은 아이디가 비슷한 계정이나 사칭 계정이 생길 수 있으므로, 아래 바로가기 링크를 통해 접속한 뒤 프로필명과 게시물 맥락을 확인하는 것이 좋습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>구분</th>
+            <th>확인 내용</th>
+            <th>바로가기 기준</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>검색 키워드</td>
+            <td>임승일 최설화 인스타</td>
+            <td>방송 출연자 관련 계정 확인용 키워드입니다.</td>
+          </tr>
+          <tr>
+            <td>계정명</td>
+            <td>단짠커플 인스타</td>
+            <td>제공된 인스타그램 링크 기준으로 안내합니다.</td>
+          </tr>
+          <tr>
+            <td>확인 링크</td>
+            <td>instagram.com/dzz._.couple</td>
+            <td>비슷한 아이디와 혼동하지 않도록 바로가기로 접속합니다.</td>
+          </tr>
+          <tr>
+            <td>주의사항</td>
+            <td>사칭·비공식 계정 주의</td>
+            <td>DM, 금전 요청, 외부 링크 유도는 신중히 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">임승일 최설화 인스타 바로가기</h2>
+      {{CTA_BUTTONS}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">인스타그램 계정에서는 방송 이후의 근황, 커플 일상, 운영 중인 활동 또는 공지성 게시물을 확인할 수 있습니다. 다만 방송 출연자는 일반 개인의 사생활 영역도 있으므로 댓글 작성이나 공유 시에는 확인되지 않은 내용을 단정하지 않는 것이 좋습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>확인 목적</th>
+            <th>살펴볼 내용</th>
+            <th>유의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>방송 후 근황</td>
+            <td>최근 게시물과 스토리</td>
+            <td>스토리는 시간이 지나면 사라질 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>계정 진위 확인</td>
+            <td>프로필명, 게시물 흐름, 팔로워 맥락</td>
+            <td>확인되지 않은 사칭 계정과 혼동하지 않습니다.</td>
+          </tr>
+          <tr>
+            <td>방송 관련 반응</td>
+            <td>댓글, 공지, 해명성 게시물</td>
+            <td>댓글 내용은 사실 확인된 정보가 아닐 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>외부 링크</td>
+            <td>프로필 링크, 스토리 링크</td>
+            <td>금전 요청이나 개인정보 입력 링크는 주의합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">2026년 6월 4일 이혼숙려캠프 방송 정보</h2>
+      {{MIDDLE_AD}}
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">언론 보도에 따르면 2026년 6월 4일 방송된 JTBC 이혼숙려캠프 88회에서는 결혼을 앞둔 예비 부부가 출연했고, 주차비 3000원 문제로 갈등이 불거진 사연이 소개됐습니다. 방송에서는 예비 부부의 갈등 장면과 상담, 패널의 반응 등이 다뤄졌습니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>항목</th>
+            <th>내용</th>
+            <th>확인 포인트</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>방송 프로그램</td>
+            <td>JTBC 이혼숙려캠프</td>
+            <td>부부·예비부부 갈등을 다루는 상담형 예능입니다.</td>
+          </tr>
+          <tr>
+            <td>방송일</td>
+            <td>2026년 6월 4일</td>
+            <td>88회 방송으로 보도됐습니다.</td>
+          </tr>
+          <tr>
+            <td>검색명</td>
+            <td>3000원 부부, 3천원 부부</td>
+            <td>주차비 3000원 사건으로 화제가 됐습니다.</td>
+          </tr>
+          <tr>
+            <td>인스타 검색</td>
+            <td>임승일 최설화 인스타, 단짠커플 인스타</td>
+            <td>제공된 링크 기준으로 계정을 확인합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">단짠커플 인스타 확인 전 주의사항</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">방송 출연자 계정은 관심이 몰리는 시기에 댓글, DM, 사칭 계정, 악성 댓글 문제가 생길 수 있습니다. 계정 확인 목적이라면 공식 링크로 접속하고, 방송 장면만으로 개인의 전체 성격이나 관계를 단정하는 표현은 피하는 것이 좋습니다. 특히 출연자 가족, 지인, 사업장 등 방송과 직접 관련 없는 정보를 추적하거나 공유하지 않도록 주의해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>주의 항목</th>
+            <th>이유</th>
+            <th>권장 행동</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>사칭 계정</td>
+            <td>화제성 높은 방송 이후 유사 계정이 생길 수 있음</td>
+            <td>바로가기 링크와 계정명을 함께 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>확인되지 않은 주장</td>
+            <td>댓글과 커뮤니티 글은 사실이 아닐 수 있음</td>
+            <td>방송과 공식 게시물 기준으로만 판단합니다.</td>
+          </tr>
+          <tr>
+            <td>악성 댓글</td>
+            <td>개인에게 직접 피해가 될 수 있음</td>
+            <td>비난보다 방송 정보 확인 목적으로 이용합니다.</td>
+          </tr>
+          <tr>
+            <td>개인정보 공유</td>
+            <td>방송 밖 사생활 침해 가능성</td>
+            <td>비공개 정보나 주변인 정보는 공유하지 않습니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-4" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">이혼숙려캠프 3000원 부부 인스타 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>이혼숙려캠프 3000원 부부 인스타는 어디인가요?</summary>
+          <p>제공된 바로가기 기준 계정은 https://www.instagram.com/dzz._.couple/ 입니다. 비슷한 아이디와 혼동하지 않도록 링크로 접속해 확인하세요.</p>
+        </details>
+        <details>
+          <summary>임승일 최설화 인스타와 단짠커플 인스타는 같은 링크인가요?</summary>
+          <p>이 글에서는 사용자가 제공한 단짠커플 인스타그램 링크를 기준으로 임승일 최설화 인스타 바로가기를 안내합니다.</p>
+        </details>
+        <details>
+          <summary>3000원 부부는 어느 방송에 나왔나요?</summary>
+          <p>2026년 6월 4일 방송된 JTBC 이혼숙려캠프 88회에서 22기 첫 번째 예비 부부로 소개됐다는 보도가 나왔습니다.</p>
+        </details>
+        <details>
+          <summary>왜 3000원 부부라고 불리나요?</summary>
+          <p>보도에 따르면 주차비 3000원 문제로 갈등이 불거진 사연이 방송에서 다뤄지며 3000원 부부, 3천원 부부라는 검색명이 생겼습니다.</p>
+        </details>
+        <details>
+          <summary>인스타그램 댓글이나 DM을 보내도 되나요?</summary>
+          <p>공개 계정이라도 개인에게 직접 전달되는 댓글과 DM은 신중해야 합니다. 확인되지 않은 비난, 사생활 질문, 개인정보 요청은 피하는 것이 좋습니다.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 2026년 6월 4일 이혼숙려캠프에 나온 3000원 부부 인스타그램은 단짠커플 계정 바로가기를 통해 확인할 수 있습니다. 방송 내용은 보도와 공식 방송을 기준으로 확인하고, 개인 계정 방문 시에는 댓글 예절과 사생활 보호를 지켜주세요.</p>
+      <!-- CONTENT END 1 -->
+    `
   }
 ];
