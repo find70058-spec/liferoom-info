@@ -3213,4 +3213,127 @@ export const articles = [
       <!-- CONTENT END 1 -->
     `
   }
+,
+  {
+    slug: "sejong-airport-bus-reservation-guide",
+    category: "life",
+    title: "세종 인천공항 공항버스 승차권 예매 방법과 시간표 확인",
+    description: "세종에서 인천공항으로 가는 공항버스 승차권 예매 방법, 시간표 확인, 탑승 정류장과 터미널 준비사항을 정리했습니다.",
+    author: "Lsejin",
+    publishedAt: "2026-07-07",
+    modifiedAt: "2026-07-07",
+    readingTime: "3분",
+    tags: [
+      "세종 인천공항 공항버스 예매",
+      "세종 공항버스 시간표",
+      "세종 인천공항 버스 승차권 예약",
+      "세종 인천공항 버스 정류장",
+      "인천공항 버스 예매"
+    ],
+    ctas: [
+      {
+        label: "공항버스 시간표",
+        url: "https://www.airport.kr/ap_ko/976/subview.do"
+      },
+      {
+        label: "승차권 예약 바로가기",
+        url: "https://txbus.t-money.co.kr/"
+      }
+    ],
+    html: `
+      <p><!--no toc--></p>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">세종에서 인천공항으로 가는 공항버스는 항공편 시간에 맞춰 미리 좌석과 배차를 확인하는 것이 중요합니다. 특히 새벽 출발, 주말, 연휴에는 좌석이 빨리 마감될 수 있으므로 시간표 확인 후 승차권 예매까지 한 번에 진행하는 흐름으로 준비하세요.</p>
+      <h2 id="toc-0" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">세종 인천공항 공항버스 시간표 확인</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">공항버스 시간표는 탑승일과 출발 정류장에 따라 다르게 보일 수 있습니다. 세종고속시외버스터미널, 정부세종청사 등 실제 탑승 지점을 기준으로 검색하고, 도착지는 이용 항공사에 맞춰 인천공항 1터미널 또는 2터미널을 구분해 확인해야 합니다.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>확인 항목</th>
+            <th>예매 전 체크 내용</th>
+            <th>주의사항</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>출발지</td>
+            <td>세종고속시외버스터미널, 정부세종청사 등 실제 탑승 정류장을 선택합니다.</td>
+            <td>정류장을 잘못 선택하면 탑승 위치가 달라질 수 있습니다.</td>
+          </tr>
+          <tr>
+            <td>도착 터미널</td>
+            <td>항공사에 맞춰 인천공항 T1 또는 T2를 선택합니다.</td>
+            <td>터미널을 잘못 선택하면 공항 내 이동 시간이 추가됩니다.</td>
+          </tr>
+          <tr>
+            <td>탑승 시간</td>
+            <td>항공편 출발 시간보다 충분히 앞선 배차를 선택합니다.</td>
+            <td>도로 정체, 수하물 처리, 출국 수속 시간을 함께 고려하세요.</td>
+          </tr>
+          <tr>
+            <td>공식 링크</td>
+            <td><a href="https://www.airport.kr/ap_ko/976/subview.do" rel="noopener">공항버스 시간표</a>에서 노선을 확인하고 <a href="https://txbus.t-money.co.kr/" rel="noopener">승차권 예약 바로가기</a>에서 예매를 진행합니다.</td>
+            <td>예매 가능 노선과 시간은 예매 사이트의 조회 결과를 기준으로 확인하세요.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-1" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">세종 인천공항 공항버스 승차권 예매 방법</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">승차권 예매는 시외버스 통합예매 또는 티머니GO 등 예매 서비스에서 진행할 수 있습니다. 출발지와 도착지를 정확히 선택한 뒤 탑승 날짜, 시간, 좌석을 확인하고 결제하면 됩니다. 예매 후에는 모바일 승차권 사용 가능 여부와 현장 발권 필요 여부를 반드시 확인하세요.</p>
+      <ol style="margin: 16px 0 24px 20px; line-height: 1.9; color: #333;">
+        <li>공항버스 시간표에서 세종 출발 노선과 인천공항 도착 터미널을 확인합니다.</li>
+        <li>시외버스 통합예매 또는 티머니GO에서 출발지를 세종으로 선택합니다.</li>
+        <li>도착지를 인천공항 1터미널 또는 2터미널로 선택합니다.</li>
+        <li>탑승 날짜와 시간을 고르고 잔여 좌석을 확인합니다.</li>
+        <li>인원과 좌석을 선택한 뒤 결제하고 예매내역을 저장합니다.</li>
+      </ol>
+      <h2 id="toc-2" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">세종 인천공항 버스 탑승 전 준비사항</h2>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">공항버스는 항공편과 연결되는 이동 수단이므로 일반 시외버스보다 시간 여유를 더 넉넉히 잡는 것이 좋습니다. 수하물이 많거나 가족 단위로 이동한다면 정류장 도착 시간, 짐 싣는 시간, 공항 도착 후 이동 시간을 함께 계산하세요.</p>
+      <table class="info-table">
+        <thead>
+          <tr>
+            <th>준비사항</th>
+            <th>확인 내용</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>모바일 승차권</td>
+            <td>예매내역, QR 또는 발권 안내를 탑승 전 미리 열어둡니다.</td>
+          </tr>
+          <tr>
+            <td>도착 터미널</td>
+            <td>항공권의 출발 터미널과 예매한 도착 터미널이 같은지 확인합니다.</td>
+          </tr>
+          <tr>
+            <td>수하물</td>
+            <td>큰 짐은 탑승 전 기사 안내에 따라 짐칸에 싣고, 귀중품은 직접 보관합니다.</td>
+          </tr>
+          <tr>
+            <td>여유 시간</td>
+            <td>교통 정체와 출국 수속을 고려해 항공편보다 충분히 앞선 버스를 선택합니다.</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2 id="toc-3" style="border-left: 5px solid #2563eb; padding: 14px 0 14px 18px; margin: 40px 0 20px 0; font-size: 22px; font-weight: 700; color: #1a1a1a; line-height: 1.4; letter-spacing: -0.02em;">세종 인천공항 공항버스 예매 FAQ</h2>
+      <div class="faq-list">
+        <details>
+          <summary>세종에서 인천공항 공항버스는 미리 예매해야 하나요?</summary>
+          <p>필수는 아니더라도 좌석 매진 가능성이 있어 항공편 시간이 정해져 있다면 미리 예매하는 편이 안전합니다.</p>
+        </details>
+        <details>
+          <summary>인천공항 1터미널과 2터미널 중 어디로 예매해야 하나요?</summary>
+          <p>이용하는 항공사의 출발 터미널을 기준으로 선택해야 합니다. 항공권 또는 인천공항 항공사 터미널 안내를 먼저 확인하세요.</p>
+        </details>
+        <details>
+          <summary>모바일 승차권으로 바로 탑승할 수 있나요?</summary>
+          <p>노선과 예매처에 따라 모바일 승차권 또는 현장 발권 방식이 다를 수 있습니다. 결제 후 예매내역의 탑승 안내를 확인하세요.</p>
+        </details>
+        <details>
+          <summary>공항버스 시간표는 어디서 최신으로 확인하나요?</summary>
+          <p>인천공항 버스 검색 페이지와 예매 사이트의 조회 결과를 함께 확인하는 것이 좋습니다. 실제 운행 여부는 탑승일 기준으로 다시 확인하세요.</p>
+        </details>
+      </div>
+      <p style="margin: 16px 0; line-height: 1.9; color: #333;">정리하면 세종 인천공항 공항버스 예매는 출발 정류장, 도착 터미널, 탑승일 시간표를 먼저 확인한 뒤 승차권을 예약하는 순서로 진행하면 됩니다. 예매 후에는 승차권 안내와 터미널 정보를 저장해 두고, 출국 당일에는 정류장에 여유 있게 도착하세요.</p>
+      <!-- CONTENT END 1 -->
+    `
+  }
 ];
