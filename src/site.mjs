@@ -28,5 +28,9 @@ export const categories = {
   education: {
     name: "교육·자격",
     description: "온라인 교육, 의무교육, 직무별 필수교육 신청 정보를 정리합니다."
+  },
+  travel: {
+    name: "여행·예약",
+    description: "예약, 위치, 이용요금 등 방문 전 확인해야 할 정보를 안내합니다."
   }
 };
